@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Site Title"
+title                    : "Welcome to Nithiya Streethran's personal site!"
 title_separator          : "-"
 name                     : "Nithiya Streethran"
-description              : "An amazing website."
+description              : "My personal site."
 url                      : "https://nmstreethran.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nmstreethran/nmstreethran.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -110,28 +110,31 @@ analytics:
 author:
   name             : "Nithiya Streethran"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Early-Stage Researcher and an aspiring open energy modeller."
+  location         : "Norway"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:nmstreethran@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - # label: "Website"
+      # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/nmstreethran"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - # label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nmstreethran"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - # label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+      label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/nmstreethran"
 
 # Site Footer
 footer:
@@ -139,21 +142,24 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/nmstreethran"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - # label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nmstreethran"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    - # label: "GitLab"
+      # icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    - # label: "Bitbucket"
+      # icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - # label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url:
+      label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/nmstreethran"
 
 
 # Reading Files
