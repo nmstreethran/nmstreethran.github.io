@@ -11,12 +11,12 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                    : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "remote_theme: benbalter/retlab"
 minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Welcome to Nithiya Streethran's personal site!"
+title                    : "Nithiya Streethran"
 title_separator          : "-"
 name                     : "Nithiya Streethran"
 description              : "My personal site."
@@ -25,7 +25,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nmstreethran/nmstreethran.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/android-neko.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Nithiya Streethran" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Welcome to Nithiya Streethran's personal site!" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -43,28 +43,28 @@ comments:
     # theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment by {fields.name}"
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment by {fields.name}"
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : "date"
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -165,12 +165,13 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
+  - jekyll-remote-theme
   - LICENSE
   - log
   - node_modules
   - package.json
   - Rakefile
-  - README
+  - README.md
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
