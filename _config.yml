@@ -175,6 +175,8 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - .vscode/ # VScode folder and workspace
+  - nmstreethran.github.io.code-workspace
 keep_files:
   - .git
   - .svn
