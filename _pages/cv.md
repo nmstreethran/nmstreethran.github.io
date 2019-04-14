@@ -1,6 +1,21 @@
 ---
 layout: archive
 title: "CV"
+header:
+  overlay_image: /assets/images/header-cv.jpg
+  actions:
+    - label: "Experience"
+      url  : "/cv/#experience"
+    - label: "Education"
+      url  : "/cv/#education" 
+    - label: "Research interests"
+      url  : "/cv/#research-interests" 
+    - label: "Skills"
+      url  : "/cv/#skills" 
+    - label: "Certificates"
+      url  : "/cv/#certificates" 
+    - label: "General interests"
+      url  : "/cv/#general-interests" 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,10 +23,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<span style="font-size:14pt;"><i class="fas fa-fw fa-calendar-alt"></i> **Updated:** <time datetime="2019-04-13T00:00:00+02:00">April 13, 2019</time></span>
-
-[Experience](#experience) | [Education](#education) | [Research interests](#research-interests) | [Skills](#skills) | [Certificates](#certificates) | [General interests](#general-interests)
 
 ## Experience
 
@@ -73,3 +84,5 @@ redirect_from:
 * Open-science
 * Animal welfare
 * Role-playing games
+
+<i class="fas fa-fw fa-calendar-alt"></i> **Updated:** <time datetime="2019-04-13T00:00:00+02:00">April 13, 2019</time>

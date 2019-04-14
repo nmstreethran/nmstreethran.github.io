@@ -2,7 +2,7 @@
 title: "My Spotify playlists"
 comments: true
 categories:
-  - Random
+  - random
 tags:
   - Spotify
   - music
