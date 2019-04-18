@@ -14,6 +14,8 @@ header:
       url  : "/cv/#skills" 
     - label: "Certificates"
       url  : "/cv/#certificates" 
+    - label: "Memberships"
+      url  : "/cv/#memberships"
     - label: "General interests"
       url  : "/cv/#general-interests" 
 permalink: /cv/
@@ -77,6 +79,12 @@ redirect_from:
 * *Apr 2018*: Introduction to Energy Systems in Transition in the North Sea Region *by* [University of Groningen](https://www.rug.nl/)
 * *Sep 2017*: [Blue Growth Summer School](http://www.bluegrowth.ugent.be/summerschool/) *by* [Ghent University](https://www.ugent.be/)
 
+## Memberships
+
+* *Aug 2018 - present*: Member, [Marie Curie Alumni Association](https://www.mariecuriealumni.eu/)
+* *Jun 2018 - present*: Member, [Norwegian Association of Researchers](https://www.forskerforbundet.no/english/)
+* *Sep 2017 - present*: Associate Member, [Institution of Mechanical Engineers](http://www.imeche.org/)
+
 ## General interests
 
 * Sustainable development
@@ -85,4 +93,4 @@ redirect_from:
 * Animal welfare
 * Role-playing games
 
-<i class="fas fa-fw fa-calendar-alt"></i> **Updated:** <time datetime="2019-04-13T00:00:00+02:00">April 13, 2019</time>
+<i class="fas fa-fw fa-calendar-alt"></i> **Updated:** <time datetime="2019-04-18T00:00:00+02:00">April 18, 2019</time>

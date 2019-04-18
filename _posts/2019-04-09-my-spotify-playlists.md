@@ -1,6 +1,5 @@
 ---
 title: "My Spotify playlists"
-comments: true
 categories:
   - random
 tags:
