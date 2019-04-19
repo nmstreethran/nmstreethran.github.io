@@ -31,7 +31,7 @@ redirect_from:
 * *Apr 2018 - present*: Research Fellow
   * [**University of Stavanger**](https://www.uis.no/), Stavanger, Norway
   * Early-Stage Researcher within the [ENSYSTRA (ENergy SYStems in TRAnsition)](https://ensystra.eu/) Innovative Training Network
-  * Project: ["Development of a real-time optimisation solution for dispatchable energy supply units"](https://ensystra.eu/nithiya-streethran/)
+  * PhD Project: ["Development of a real-time optimisation solution for dispatchable energy supply units"](https://ensystra.eu/nithiya-streethran/)
 * *May 2017 - Aug 2017*: Master's Dissertation Student
   * [**Natural Power Consultants**](https://www.naturalpower.com/), Stirling, United Kingdom
   * MSc dissertation: ["Specification of 'normal' wind turbine operating behaviour for rapid anomaly detection: through the use of machine learning algorithms"](https://github.com/nmstreethran/WindTurbineClassification)
@@ -47,7 +47,7 @@ redirect_from:
 
 ## Research interests
 
-* Energy systems analysis
+* Energy system analysis
 * Electricity markets
 * Machine learning and data science for energy
 * Renewable energy grid integration
@@ -93,4 +93,4 @@ redirect_from:
 * Animal welfare
 * Role-playing games
 
-<i class="fas fa-fw fa-calendar-alt"></i> **Updated:** <time datetime="2019-04-18T00:00:00+02:00">April 18, 2019</time>
+<i class="fas fa-fw fa-calendar-alt"></i> **Updated:** <time datetime="2019-04-19T00:00:00+02:00">April 19, 2019</time>
