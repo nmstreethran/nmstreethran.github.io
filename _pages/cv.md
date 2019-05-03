@@ -2,7 +2,10 @@
 layout: archive
 title: "CV"
 header:
-  overlay_image: /assets/images/header-cv.jpg
+  overlay_image: /assets/headers/codex.jpg
+  caption: "Photo credit: [**Henryk Niestrój**](https://pixabay.com/photos/calligraphy-starodruk-manuscript-1527810/)"
+  #overlay_filter: rgba(170, 170, 94, 0.3)
+  #overlay_color: rgba(50, 0, 46, 0.5)
   actions:
     - label: "Experience"
       url  : "/cv/#experience"
