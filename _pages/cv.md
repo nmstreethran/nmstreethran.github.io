@@ -10,17 +10,17 @@ header:
     - label: "Experience"
       url  : "/cv/#experience"
     - label: "Education"
-      url  : "/cv/#education" 
+      url  : "/cv/#education"
     - label: "Research interests"
-      url  : "/cv/#research-interests" 
+      url  : "/cv/#research-interests"
     - label: "Skills"
-      url  : "/cv/#skills" 
+      url  : "/cv/#skills"
     - label: "Certificates"
-      url  : "/cv/#certificates" 
+      url  : "/cv/#certificates"
     - label: "Memberships"
       url  : "/cv/#memberships"
     - label: "General interests"
-      url  : "/cv/#general-interests" 
+      url  : "/cv/#general-interests"
 permalink: /cv/
 author_profile: true
 redirect_from:
