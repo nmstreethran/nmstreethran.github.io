@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 header:
   overlay_image: /assets/headers/codex.jpg
   caption: "Photo credit: [**Henryk Niestrój**](https://pixabay.com/photos/calligraphy-starodruk-manuscript-1527810/)"

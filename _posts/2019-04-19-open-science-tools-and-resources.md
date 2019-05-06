@@ -36,6 +36,7 @@ This is a list of open-science tools and resources I use. I will update this lis
 
 * [Python](https://www.python.org/)
 * [Anaconda](https://www.anaconda.com/) distribution
+* [Jupyter](https://jupyter.org/)
 
 ## Data analysis
 
@@ -51,6 +52,8 @@ This is a list of open-science tools and resources I use. I will update this lis
 * [Mozilla Thunderbird](https://www.thunderbird.net/) - email client
 * [reveal.js](https://revealjs.com/) - HTML presentation framework
 * [7-Zip](https://www.7-zip.org/) - file archiver
+* [Google Fonts](https://fonts.google.com/) - free and open-source fonts
+* [TEXcount](https://ctan.org/pkg/texcount) - LaTeX document word count
 
 ## Visualisation and graphics
 
@@ -69,6 +72,7 @@ This is a list of open-science tools and resources I use. I will update this lis
 * [Zotero](https://www.zotero.org) 
   * [Better BibTeX](https://retorque.re/zotero-better-bibtex/)
   * [ZotFile](http://zotfile.com/)
+* [JabRef](http://www.jabref.org/)
   
 ## Version control system
 
