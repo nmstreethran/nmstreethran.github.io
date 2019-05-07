@@ -1,6 +1,6 @@
 # [nmstreethran.github.io](https://nmstreethran.github.io/)
 
-My personal website! [WIP]
+My personal website! 
 
 All of my coding notes can be found in my [coding](https://github.com/nmstreethran/coding) repository.
 

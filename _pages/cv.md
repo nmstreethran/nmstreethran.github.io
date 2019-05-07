@@ -47,6 +47,7 @@ redirect_from:
 * *Sep 2013 - May 2016*: Bachelor of Engineering (BEng)
   * [**Heriot-Watt University**](https://www.hw.ac.uk/), Edinburgh, United Kingdom
   * Mechanical Engineering and Energy Engineering
+  * Honours project: ["Fabrication of paper-based microfluidic devices for animal disease detection"](https://github.com/nmstreethran/paper-based-microfluidics)
 
 ## Research interests
 
