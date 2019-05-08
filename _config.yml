@@ -125,10 +125,13 @@ author:
       url: "https://linkedin.com/in/nmstreethran"
     - label: "Spotify"
       icon: "fab fa-fw fa-spotify"
-      url: "https://open.spotify.com/user/11180709296?si=iDt1fF7NSUCOdJrduwGZUQ"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Nithiya_Streethran"
+      url: "https://open.spotify.com/user/11180709296"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "http://www.youtube.com/c/NithiyaMangalaStreethran"
+    # - label: "ResearchGate"
+    #   icon: "fab fa-fw fa-researchgate"
+    #   url: "https://www.researchgate.net/profile/Nithiya_Streethran"
 
 # Site Footer
 footer:
@@ -144,10 +147,13 @@ footer:
       url: "https://linkedin.com/in/nmstreethran"
     - label: "Spotify"
       icon: "fab fa-fw fa-spotify"
-      url: "https://open.spotify.com/user/11180709296?si=iDt1fF7NSUCOdJrduwGZUQ"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Nithiya_Streethran"
+      url: "https://open.spotify.com/user/11180709296"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "http://www.youtube.com/c/NithiyaMangalaStreethran"
+    # - label: "ResearchGate"
+    #   icon: "fab fa-fw fa-researchgate"
+    #   url: "https://www.researchgate.net/profile/Nithiya_Streethran"
 
 
 # Reading Files
@@ -173,6 +179,7 @@ exclude:
   - gulpfile.js
   - jekyll-remote-theme
   - LICENSE
+  - LICENSE_content
   - log
   - node_modules
   - package.json
@@ -270,6 +277,14 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# Collections
+collections:
+  open-science:
+    output: true
+    permalink: /:collection/:path/
+  random:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -292,3 +307,23 @@ defaults:
       comments: true
       share: true
       related: true
+  # _open-science
+  - scope:
+      path: ""
+      type: open-science
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      share: true
+      comments: false
+  # _random
+  - scope:
+      path: ""
+      type: random
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      share: true
+      comments: false

@@ -5,6 +5,7 @@ categories:
 tags:
   - Spotify
   - music
+date: "2019-04-09"
 ---
 
 I would like to share a couple of Spotify playlists I have made! 

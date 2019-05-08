@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Curriculum Vitae"
 header:
   overlay_image: /assets/headers/codex.jpg
@@ -25,11 +25,12 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+date: "2019-04-19"
 ---
 
 {% include base_path %}
 
-## Experience
+# Experience
 
 * *Apr 2018 - present*: Research Fellow
   * [**University of Stavanger**](https://www.uis.no/), Stavanger, Norway
@@ -39,7 +40,7 @@ redirect_from:
   * [**Natural Power Consultants**](https://www.naturalpower.com/), Stirling, United Kingdom
   * MSc dissertation: ["Specification of 'normal' wind turbine operating behaviour for rapid anomaly detection: through the use of machine learning algorithms"](https://github.com/nmstreethran/WindTurbineClassification)
 
-## Education
+# Education
 
 * *Sep 2016 - Aug 2017*: Master of Science (MSc)
   * [**Heriot-Watt University**](https://www.hw.ac.uk/), Edinburgh, United Kingdom
@@ -49,7 +50,7 @@ redirect_from:
   * Mechanical Engineering and Energy Engineering
   * Honours project: ["Fabrication of paper-based microfluidic devices for animal disease detection"](https://github.com/nmstreethran/paper-based-microfluidics)
 
-## Research interests
+# Research interests
 
 * Energy system analysis
 * Electricity markets
@@ -57,7 +58,7 @@ redirect_from:
 * Renewable energy grid integration
 * Open energy modelling
 
-## Skills
+# Skills
 
 * Programming
   * Python
@@ -74,7 +75,7 @@ redirect_from:
   * Tamil - *intermediate*
   * Norwegian (Bokmål) - *beginner*
 
-## Certificates
+# Certificates
 
 * *Apr 2019*: [Open Science MOOC Module 1: Open Principles](https://eliademy.com/cert/51789a843b13a9e9fc1dd4b73003641a.html)
 * *Feb 2019*: [Mathematics for Machine Learning, a 3-course specialisation](https://www.coursera.org/account/accomplishments/specialization/G2PWUQQKSCX9) *by* [Imperial College London on Coursera](https://www.coursera.org/imperial)
@@ -83,18 +84,16 @@ redirect_from:
 * *Apr 2018*: Introduction to Energy Systems in Transition in the North Sea Region *by* [University of Groningen](https://www.rug.nl/)
 * *Sep 2017*: [Blue Growth Summer School](http://www.bluegrowth.ugent.be/summerschool/) *by* [Ghent University](https://www.ugent.be/)
 
-## Memberships
+# Memberships
 
 * *Aug 2018 - present*: Member, [Marie Curie Alumni Association](https://www.mariecuriealumni.eu/)
 * *Jun 2018 - present*: Member, [Norwegian Association of Researchers](https://www.forskerforbundet.no/english/)
 * *Sep 2017 - present*: Associate Member, [Institution of Mechanical Engineers](http://www.imeche.org/)
 
-## General interests
+# General interests
 
 * Sustainable development
 * Walking
 * Open-science
 * Animal welfare
 * Role-playing games
-
-<i class="fas fa-fw fa-calendar-alt"></i> **Updated:** <time datetime="2019-04-19T00:00:00+02:00">April 19, 2019</time>

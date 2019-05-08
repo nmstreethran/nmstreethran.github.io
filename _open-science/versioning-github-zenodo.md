@@ -1,5 +1,5 @@
 ---
-title: "Versioning GitHub projects and indexing them on Zenodo"
+title: "Versioning GitHub projects and indexing them with Zenodo"
 categories:
   - open-science
 tags:
@@ -8,6 +8,7 @@ tags:
   - GitHub
   - Zenodo
   - research
+date: "2019-05-06"
 ---
 
 I have finally decided to complete [Module 5: Open Research Software and Open Source](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e) of the [Open Science MOOC](https://opensciencemooc.eu/). 

@@ -6,25 +6,11 @@ tags:
   - open-science
   - open-source
   - e-learning
+toc: true
+date: "2019-04-30"
 ---
 
 This is a list of open-science tools and resources I use. I will update this list from time to time.
-
-<details markdown="1">
-<summary>Table of contents</summary>
-
-- [E-learning](#e-learning)
-- [Programming and data analysis](#programming-and-data-analysis)
-- [Data analysis](#data-analysis)
-- [Typesetting and office](#typesetting-and-office)
-- [Visualisation and graphics](#visualisation-and-graphics)
-- [Machine learning](#machine-learning)
-- [Bibliography management](#bibliography-management)
-- [Version control system](#version-control-system)
-- [Source code editor](#source-code-editor)
-- [Operating system](#operating-system)
-
-</details>
 
 ## E-learning
 
@@ -94,3 +80,9 @@ This is a list of open-science tools and resources I use. I will update this lis
 
 * [Ubuntu](https://www.ubuntu.com/) - Linux distribution
 * [Flat Remix GNOME theme](https://drasite.com/flat-remix-gnome)
+
+## Media
+
+* [Pixabay](https://pixabay.com/)
+* [Unsplash](https://unsplash.com/)
+* [Wikimedia Commons](https://commons.wikimedia.org/)
