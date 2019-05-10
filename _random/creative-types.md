@@ -1,12 +1,12 @@
 ---
 title: "#mycreativetype"
-categories:
-  - random
 tags:
   - quiz
   - adobe-create
   - creativity
 date: "2019-04-30"
+header:
+  overlay_color: rgba(25, 96, 25, 0.5)
 ---
 
 I recently took the [#mycreativetype](https://mycreativetype.com/) quiz by [Adobe Create](https://create.adobe.com/). 

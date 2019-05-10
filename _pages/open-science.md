@@ -5,7 +5,6 @@ collection: open-science
 permalink: /open-science/
 author_profile: true
 header:
-  overlay_image: /assets/headers/open.jpg
-  caption: "Photo credit: [**Alexandre Godreau**](https://unsplash.com/photos/7YlHU_ZPS34)"
-  overlay_filter: rgba(63, 127, 191, 0.4)
+  overlay_image: /assets/headers/cats.jpg
+  caption: "Photo credit: [**DarkWorkX**](https://pixabay.com/illustrations/vintage-kitten-school-kittens-cat-4178304/)"
 ---
