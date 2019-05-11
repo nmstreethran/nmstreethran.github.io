@@ -7,8 +7,7 @@ tags:
   - Zenodo
   - research
 date: "2019-05-06"
-header:
-  overlay_color: rgba(25, 96, 25, 0.5)
+excerpt: ""
 ---
 
 I have finally decided to complete [Module 5: Open Research Software and Open Source](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e) of the [Open Science MOOC](https://opensciencemooc.eu/). 

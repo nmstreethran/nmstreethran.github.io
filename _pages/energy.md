@@ -5,6 +5,6 @@ collection: energy
 permalink: /energy/
 author_profile: true
 header:
-  overlay_image: /assets/headers/cats.jpg
-  caption: "Photo credit: [**DarkWorkX**](https://pixabay.com/illustrations/vintage-kitten-school-kittens-cat-4178304/)"
+  overlay_image: /assets/headers/wind.jpg
+  caption: "Photo credit: [**skeeze**](https://pixabay.com/photos/wind-farm-windmills-turbines-energy-538576/)"
 ---

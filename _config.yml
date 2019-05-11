@@ -285,6 +285,9 @@ collections:
   random:
     output: true
     permalink: /:collection/:path/
+  sustainability:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -318,9 +321,8 @@ defaults:
       share: true
       comments: false
       header:
-        overlay_image: /assets/headers/cats.jpg
-        caption: "Photo credit: [**DarkWorkX**](https://pixabay.com/illustrations/vintage-kitten-school-kittens-cat-4178304/)"
-        show_overlay_excerpt: false
+        overlay_image: /assets/headers/wind.jpg
+        caption: "Photo credit: [**skeeze**](https://pixabay.com/photos/wind-farm-windmills-turbines-energy-538576/)"
   # _open-science
   - scope:
       path: ""
@@ -334,7 +336,6 @@ defaults:
       header:
         overlay_image: /assets/headers/cats.jpg
         caption: "Photo credit: [**DarkWorkX**](https://pixabay.com/illustrations/vintage-kitten-school-kittens-cat-4178304/)"
-        show_overlay_excerpt: false
   # _random
   - scope:
       path: ""
@@ -348,4 +349,16 @@ defaults:
       header:
         overlay_image: /assets/headers/leaves.jpg
         caption: "Photo credit: [**Pexels**](https://pixabay.com/photos/leaves-nature-plant-tree-trunk-1839959/)"
-        show_overlay_excerpt: false
+  # _sustainability
+  - scope:
+      path: ""
+      type: sustainability
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      share: true
+      comments: false
+      header:
+        overlay_image: /assets/headers/chicken.jpg
+        caption: "Photo credit: [**Andreas Göllner**](https://pixabay.com/photos/animals-chicks-mother-hen-nature-3509098/)"

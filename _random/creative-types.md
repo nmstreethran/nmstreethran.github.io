@@ -5,6 +5,7 @@ tags:
   - adobe-create
   - creativity
 date: "2019-04-30"
+excerpt: ""
 ---
 
 I recently took the [#mycreativetype](https://mycreativetype.com/) quiz by [Adobe Create](https://create.adobe.com/). 

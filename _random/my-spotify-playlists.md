@@ -4,6 +4,7 @@ tags:
   - Spotify
   - music
 date: "2019-04-09"
+excerpt: ""
 ---
 
 I would like to share a couple of Spotify playlists I have made! 

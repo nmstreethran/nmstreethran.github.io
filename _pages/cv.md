@@ -25,7 +25,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-date: "2019-04-19"
+date: "2019-05-11"
 ---
 
 {% include base_path %}
