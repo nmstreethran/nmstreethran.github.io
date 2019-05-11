@@ -14,7 +14,11 @@ main:
 #    url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
- - title: "Open-science"
+ - title: "Energy"
+   url: /energy/
+ - title: "Open Science"
    url: /open-science/
  - title: "Random"
    url: /random/
+ - title: "References"
+   url: /references/

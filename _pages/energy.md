@@ -1,8 +1,8 @@
 ---
-title: "Open Science"
+title: "Energy"
 layout: collection
-collection: open-science
-permalink: /open-science/
+collection: energy
+permalink: /energy/
 author_profile: true
 header:
   overlay_image: /assets/headers/cats.jpg

@@ -1,7 +1,7 @@
 ---
-title: "Open-science tools and resources"
+title: "Open science tools and resources"
 tags:
-  - open-science
+  - open science
   - open-source
   - e-learning
 toc: true
@@ -10,11 +10,11 @@ header:
   overlay_color: rgba(25, 96, 25, 0.5)
 ---
 
-This is a list of open-science tools and resources I use. I will update this list from time to time.
+This is a list of open science tools and resources I use. I will update this list from time to time.
 
 ## E-learning
 
-* [Open Science MOOC](https://opensciencemooc.eu/) - I highly recommend all open-science enthusiasts to join this massive online open community! 
+* [Open Science MOOC](https://opensciencemooc.eu/) - I highly recommend all open science enthusiasts to join this massive online open community! 
   * [Module 1: Open Principles](https://eliademy.com/cert/51789a843b13a9e9fc1dd4b73003641a.html)
   * [Module 5: Open Research Software and Open Source](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e)
 
@@ -59,6 +59,7 @@ This is a list of open-science tools and resources I use. I will update this lis
   * [Better BibTeX](https://retorque.re/zotero-better-bibtex/)
   * [ZotFile](http://zotfile.com/)
 * [JabRef](http://www.jabref.org/)
+* [BibBase](https://bibbase.org/)
   
 ## Version control system
 
@@ -66,15 +67,20 @@ This is a list of open-science tools and resources I use. I will update this lis
 
 ## Source code editor
 
-* [VSCodium](https://vscodium.github.io/) - fully open-source source code editor based on Microsoft's [Visual Studio Code](https://code.visualstudio.com/) without Microsoft telemetry, branding and licensing, with the following extensions:
-  * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-  * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-  * [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+* [VSCodium](https://vscodium.github.io/) - fully open-source source code editor based on Microsoft's [Visual Studio Code](https://code.visualstudio.com/) without Microsoft telemetry, branding and licensing, plus the following extensions:
   * [Anaconda Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-python.anaconda-extension-pack)
-  * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-  * [hide-gitignored](https://marketplace.visualstudio.com/items?itemName=npxms.hide-gitignored) - to hide files and directories in .gitignore
-  * [Markdown All in One](https://marketplace.visualstudio.com/itemdetails?itemName=yzhang.markdown-all-in-one) 
+  * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
   * [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+  * [hide-gitignored](https://marketplace.visualstudio.com/items?itemName=npxms.hide-gitignored)
+  * [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+  * [Live HTML Previewer](https://marketplace.visualstudio.com/items?itemName=hdg.live-html-previewer)
+  * [Markdown All in One](https://marketplace.visualstudio.com/itemdetails?itemName=yzhang.markdown-all-in-one)
+  * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+  * [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+  * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+  * [VS Code Jupyter Notebook Previewer](https://marketplace.visualstudio.com/items?itemName=jithurjacob.nbpreviewer)
+  * [YAML](https://marketplace.visualstudio.com/itemdetails?itemName=redhat.vscode-yaml)
   
 ## Operating system
 

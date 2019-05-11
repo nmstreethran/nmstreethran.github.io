@@ -4,8 +4,6 @@ tags:
   - Spotify
   - music
 date: "2019-04-09"
-header:
-  overlay_color: rgba(25, 96, 25, 0.5)
 ---
 
 I would like to share a couple of Spotify playlists I have made! 

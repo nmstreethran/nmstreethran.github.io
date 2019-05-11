@@ -2,7 +2,7 @@
 title: "Versioning GitHub projects and indexing them with Zenodo"
 tags:
   - open-source
-  - open-science
+  - open science
   - GitHub
   - Zenodo
   - research

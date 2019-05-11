@@ -276,6 +276,9 @@ tag_archive:
 
 # Collections
 collections:
+  energy:
+    output: true
+    permalink: /:collection/:path/
   open-science:
     output: true
     permalink: /:collection/:path/
@@ -304,6 +307,20 @@ defaults:
       comments: true
       share: true
       related: true
+  # _energy
+  - scope:
+      path: ""
+      type: energy
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      share: true
+      comments: false
+      header:
+        overlay_image: /assets/headers/cats.jpg
+        caption: "Photo credit: [**DarkWorkX**](https://pixabay.com/illustrations/vintage-kitten-school-kittens-cat-4178304/)"
+        show_overlay_excerpt: false
   # _open-science
   - scope:
       path: ""
@@ -314,6 +331,10 @@ defaults:
       author_profile: true
       share: true
       comments: false
+      header:
+        overlay_image: /assets/headers/cats.jpg
+        caption: "Photo credit: [**DarkWorkX**](https://pixabay.com/illustrations/vintage-kitten-school-kittens-cat-4178304/)"
+        show_overlay_excerpt: false
   # _random
   - scope:
       path: ""
@@ -324,3 +345,7 @@ defaults:
       author_profile: true
       share: true
       comments: false
+      header:
+        overlay_image: /assets/headers/leaves.jpg
+        caption: "Photo credit: [**Pexels**](https://pixabay.com/photos/leaves-nature-plant-tree-trunk-1839959/)"
+        show_overlay_excerpt: false
