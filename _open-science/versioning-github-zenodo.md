@@ -1,11 +1,5 @@
 ---
 title: "Versioning GitHub projects and indexing them with Zenodo"
-tags:
-  - open-source
-  - open science
-  - GitHub
-  - Zenodo
-  - research
 date: "2019-05-06"
 excerpt: ""
 ---

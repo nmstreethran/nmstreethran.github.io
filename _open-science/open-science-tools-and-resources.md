@@ -1,9 +1,5 @@
 ---
 title: "Open science tools and resources"
-tags:
-  - open science
-  - open-source
-  - e-learning
 toc: true
 date: "2019-04-30"
 excerpt: "This is a list of open science tools and resources I use. I will update this list from time to time."
