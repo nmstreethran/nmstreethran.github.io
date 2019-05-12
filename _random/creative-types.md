@@ -1,9 +1,5 @@
 ---
 title: "#mycreativetype"
-tags:
-  - quiz
-  - adobe-create
-  - creativity
 date: "2019-04-30"
 excerpt: ""
 ---

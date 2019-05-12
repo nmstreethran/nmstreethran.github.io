@@ -7,4 +7,5 @@ author_profile: true
 header:
   overlay_image: /assets/headers/leaves.jpg
   caption: "Photo credit: [**Pexels**](https://pixabay.com/photos/leaves-nature-plant-tree-trunk-1839959/)"
+sort_order: reverse
 ---

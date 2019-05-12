@@ -1,7 +1,7 @@
 ---
 title: "Open science tools and resources"
 toc: true
-date: "2019-04-30"
+date: "2019-05-12"
 excerpt: "This is a list of open science tools and resources I use. I will update this list from time to time."
 ---
 
@@ -16,10 +16,8 @@ excerpt: "This is a list of open science tools and resources I use. I will updat
 * [Python](https://www.python.org/)
 * [Anaconda](https://www.anaconda.com/) distribution
 * [Jupyter](https://jupyter.org/)
-
-# Data analysis
-
 * [Pandas](https://pandas.pydata.org/)
+* [JSFiddle](https://jsfiddle.net/) 
 
 # Typesetting and office
 
@@ -33,6 +31,9 @@ excerpt: "This is a list of open science tools and resources I use. I will updat
 * [7-Zip](https://www.7-zip.org/) - file archiver
 * [Google Fonts](https://fonts.google.com/) - free and open-source fonts
 * [TEXcount](https://ctan.org/pkg/texcount) - LaTeX document word count
+* [Academicons](https://jpswalsh.github.io/academicons/) - academic font icons
+* [Shields.io](https://shields.io/) - metadata badges
+* [Font Awesome](https://fontawesome.com/)
 
 # Visualisation and graphics
 
@@ -52,6 +53,12 @@ excerpt: "This is a list of open science tools and resources I use. I will updat
   * [Better BibTeX](https://retorque.re/zotero-better-bibtex/)
   * [ZotFile](http://zotfile.com/)
 * [JabRef](http://www.jabref.org/)
+
+# Research repositories
+
+* [Zenodo](https://zenodo.org)
+* [figshare](https://figshare.com/)
+* [Open Science Framework (OSF)](https://osf.io/)
   
 # Version control system
 

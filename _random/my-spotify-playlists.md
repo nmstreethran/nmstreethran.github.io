@@ -1,8 +1,5 @@
 ---
 title: "My Spotify playlists"
-tags:
-  - Spotify
-  - music
 date: "2019-04-09"
 excerpt: ""
 ---

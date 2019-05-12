@@ -74,7 +74,7 @@ date: "2019-05-11"
 
 * *May 2019*: [Module 5: Open Research Software and Open Source](https://eliademy.com/cert/6d3c52425b64ec051329915b9f7ffc94.html) *of* [Open Science MOOC](https://opensciencemooc.eu/) on Eliademy
 * *Apr 2019*: [Module 1: Open Principles](https://eliademy.com/cert/51789a843b13a9e9fc1dd4b73003641a.html) *of* [Open Science MOOC](https://opensciencemooc.eu/) on Eliademy
-* *Feb 2019*: [Mathematics for Machine Learning, a 3-course specialisation](https://www.coursera.org/account/accomplishments/specialization/G2PWUQQKSCX9) *by* [Imperial College London](http://www.imperial.ac.uk/)
+* *Feb 2019*: [Mathematics for Machine Learning, a 3-course specialisation](https://www.coursera.org/account/accomplishments/specialization/G2PWUQQKSCX9) *by* [Imperial College London](http://www.imperial.ac.uk/) on Coursera
 * *Jan 2019*: Workshop on Energy Economics: Markets, Investment and Business *by* [University of Edinburgh](https://www.ed.ac.uk/)
 * *Sep 2018*: Modelling Energy Systems - Setting the Interdisciplinary Stage *by* [University of Flensburg](https://www.uni-flensburg.de/en/)
 * *Apr 2018*: Introduction to Energy Systems in Transition in the North Sea Region *by* [University of Groningen](https://www.rug.nl/)
