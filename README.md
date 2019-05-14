@@ -1,5 +1,7 @@
 # [nmstreethran.github.io](https://nmstreethran.github.io/) <!-- omit in toc -->
 
+[![Build Status](https://travis-ci.org/nmstreethran/nmstreethran.github.io.svg?branch=master)](https://travis-ci.org/nmstreethran/nmstreethran.github.io)
+
 My personal website! 
 
 All of my coding notes can be found in my [coding](https://github.com/nmstreethran/coding) repository.
