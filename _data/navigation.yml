@@ -22,3 +22,24 @@ main:
    url: /random/
  - title: "Sustainability"
    url: /sustainability/
+
+cv_nav:
+  - title: "Curriculum Vitae"
+    url: "/cv/#top"
+    children:
+      - title: "About"
+        url: "cv/#nithiya-streethran"
+      - title: "Experience"
+        url  : "/cv/#experience"
+      - title: "Education"
+        url  : "/cv/#education"
+      - title: "Research interests"
+        url  : "/cv/#research-interests"
+      - title: "Skills"
+        url  : "/cv/#skills"
+      - title: "Certificates"
+        url  : "/cv/#certificates"
+      - title: "Memberships"
+        url  : "/cv/#memberships"
+      - title: "General interests"
+        url  : "/cv/#general-interests"

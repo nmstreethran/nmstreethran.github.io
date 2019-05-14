@@ -6,29 +6,51 @@ header:
   caption: "Photo credit: [**Henryk Niestrój**](https://pixabay.com/photos/calligraphy-starodruk-manuscript-1527810/)"
   #overlay_filter: rgba(140, 114, 114, 0.5)
   #overlay_color: rgba(50, 0, 46, 0.5)
-  actions:
-    - label: "Experience"
-      url  : "/cv/#experience"
-    - label: "Education"
-      url  : "/cv/#education"
-    - label: "Research interests"
-      url  : "/cv/#research-interests"
-    - label: "Skills"
-      url  : "/cv/#skills"
-    - label: "Certificates"
-      url  : "/cv/#certificates"
-    - label: "Memberships"
-      url  : "/cv/#memberships"
-    - label: "General interests"
-      url  : "/cv/#general-interests"
+  # actions:
+  #   - label: "Experience"
+  #     url  : "/cv/#experience"
+  #   - label: "Education"
+  #     url  : "/cv/#education"
+  #   - label: "Research interests"
+  #     url  : "/cv/#research-interests"
+  #   - label: "Skills"
+  #     url  : "/cv/#skills"
+  #   - label: "Certificates"
+  #     url  : "/cv/#certificates"
+  #   - label: "Memberships"
+  #     url  : "/cv/#memberships"
+  #   - label: "General interests"
+  #     url  : "/cv/#general-interests"
 permalink: /cv/
-author_profile: true
+#author_profile: true
+sidebar:
+  - image: "/assets/icons/avatar.jpg"
+    image_alt: "Nithiya Streethran"
+  - nav: "cv_nav"
 redirect_from:
   - /resume
 date: "2019-05-11"
 ---
 
 {% include base_path %}
+
+# [Nithiya Streethran](https://nmstreethran.github.io)
+
+*Early-stage researcher in energy transitions and aspiring open energy modeller*
+
+  <div class="page__footer-follow">
+    <ul class="social-icons">
+      {% if site.footer.links %}
+        {% for link in site.footer.links %}
+          {% if link.label and link.url %}
+            <span style="font-size:larger">
+              <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> </a></li>
+            </span>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </ul>
+  </div>
 
 # Experience
 

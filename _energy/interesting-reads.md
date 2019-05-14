@@ -3,6 +3,7 @@ title: "Interesting reads"
 date: "2019-05-11"
 excerpt: ""
 toc: true
+toc_sticky: true
 ---
 
 # Open Energy Modelling

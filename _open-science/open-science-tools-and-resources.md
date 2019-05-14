@@ -3,18 +3,34 @@ title: "Open science tools and resources"
 toc: true
 date: "2019-05-12"
 excerpt: "This is a list of open science tools and resources I use. I will update this list from time to time."
+toc_sticky: true
 ---
 
-# E-learning
+# Version control system
 
-* [Open Science MOOC](https://opensciencemooc.eu/) - I highly recommend all open science enthusiasts to join this massive online open community! 
-  * [Module 1: Open Principles](https://eliademy.com/cert/51789a843b13a9e9fc1dd4b73003641a.html)
-  * [Module 5: Open Research Software and Open Source](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e)
+* [Git](https://git-scm.com/) 
+
+# Source code editor
+
+* [VSCodium](https://vscodium.github.io/) - fully open-source source code editor based on Microsoft's [Visual Studio Code](https://code.visualstudio.com/) without Microsoft telemetry, branding and licensing, plus the following extensions:
+  * [Anaconda Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-python.anaconda-extension-pack)
+  * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+  * [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+  * [hide-gitignored](https://marketplace.visualstudio.com/items?itemName=npxms.hide-gitignored)
+  * [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+  * [Live HTML Previewer](https://marketplace.visualstudio.com/items?itemName=hdg.live-html-previewer)
+  * [Markdown All in One](https://marketplace.visualstudio.com/itemdetails?itemName=yzhang.markdown-all-in-one)
+  * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+  * [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+  * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+  * [VS Code Jupyter Notebook Previewer](https://marketplace.visualstudio.com/items?itemName=jithurjacob.nbpreviewer)
+  * [YAML](https://marketplace.visualstudio.com/itemdetails?itemName=redhat.vscode-yaml)
 
 # Programming and data analysis
 
 * [Python](https://www.python.org/)
-* [Anaconda](https://www.anaconda.com/) distribution
+* [Anaconda](https://www.anaconda.com/)
 * [Jupyter](https://jupyter.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [JSFiddle](https://jsfiddle.net/) 
@@ -59,27 +75,12 @@ excerpt: "This is a list of open science tools and resources I use. I will updat
 * [Zenodo](https://zenodo.org)
 * [figshare](https://figshare.com/)
 * [Open Science Framework (OSF)](https://osf.io/)
-  
-# Version control system
 
-* [Git](https://git-scm.com/) 
+# E-learning
 
-# Source code editor
-
-* [VSCodium](https://vscodium.github.io/) - fully open-source source code editor based on Microsoft's [Visual Studio Code](https://code.visualstudio.com/) without Microsoft telemetry, branding and licensing, plus the following extensions:
-  * [Anaconda Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-python.anaconda-extension-pack)
-  * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-  * [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
-  * [hide-gitignored](https://marketplace.visualstudio.com/items?itemName=npxms.hide-gitignored)
-  * [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
-  * [Live HTML Previewer](https://marketplace.visualstudio.com/items?itemName=hdg.live-html-previewer)
-  * [Markdown All in One](https://marketplace.visualstudio.com/itemdetails?itemName=yzhang.markdown-all-in-one)
-  * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-  * [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-  * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-  * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-  * [VS Code Jupyter Notebook Previewer](https://marketplace.visualstudio.com/items?itemName=jithurjacob.nbpreviewer)
-  * [YAML](https://marketplace.visualstudio.com/itemdetails?itemName=redhat.vscode-yaml)
+* [Open Science MOOC](https://opensciencemooc.eu/)
+  * [Module 1: Open Principles](https://eliademy.com/catalog/catalog/product/view/sku/b55b4d7020)
+  * [Module 5: Open Research Software and Open Source](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e)
   
 # Operating system
 
