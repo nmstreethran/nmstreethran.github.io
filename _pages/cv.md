@@ -38,13 +38,14 @@ date: "2019-05-11"
 
 *Early-stage researcher in energy transitions and aspiring open energy modeller*
 
+  <span style="font-size:larger"><i class="fas fa-map-marker-alt"></i>&ensp;Norway</span>
   <div class="page__footer-follow">
     <ul class="social-icons">
       {% if site.footer.links %}
         {% for link in site.footer.links %}
           {% if link.label and link.url %}
             <span style="font-size:larger">
-              <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> </a></li>
+              <li><a title="{{ link.label }}" href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> </a></li>
             </span>
           {% endif %}
         {% endfor %}
