@@ -83,10 +83,9 @@ date: "2019-05-11"
 
 # Skills
 
-* Coding <br> <i class="fab fa-python fa-2x" title="Python"></i> &ensp; <i class="fab fa-git fa-2x" title="Git"></i> &ensp; Matlab
-* Office and typesetting <br> LaTeX &ensp; Office suite of applications
-* Operating systems <br>
-  <i class="fab fa-windows fa-2x" title="Microsoft Windows"></i> &ensp; <i class="fab fa-linux fa-2x" title="Linux"></i>
+* Coding: Python, Git, Matlab 
+* Office and typesetting: LaTeX, Office suite of applications
+* Operating systems: Microsoft Windows, Linux
 * Languages
   * English - *proficient*
   * Malay - *proficient; native language*
