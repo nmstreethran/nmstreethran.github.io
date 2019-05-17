@@ -1,6 +1,11 @@
 # [nmstreethran.github.io](https://nmstreethran.github.io/) <!-- omit in toc -->
 
+[![Site License: MIT](https://img.shields.io/badge/Site%20License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Content License: CC BY 4.0](https://img.shields.io/badge/Content%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 My personal website! 
+
+Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes). 
 
 All of my coding notes can be found in my [coding](https://github.com/nmstreethran/coding) repository.
 
@@ -43,7 +48,15 @@ All of my coding notes can be found in my [coding](https://github.com/nmstreethr
 
 ## License
 
-Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes). Copyright (c) 2013-2019 Michael Rose and contributors. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[The MIT License (MIT)](/LICENSE)
+
+Copyright (c) 2013-2019 Michael Rose and contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/) 
 creators Garrett Knoll, Arthur Shlain, and tracy tam.
@@ -97,16 +110,22 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 
 ## Website-specific licenses and credits
 
-Unless otherwise stated, the website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com). [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+Unless otherwise stated, the website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com). Licensed under the [Creative Commons Attribution 4.0 International License](/LICENSE_content.md).
 
 Header images are imported from [Pixabay](https://pixabay.com). 
 
 Some contents are adapted from [AcademicPages](https://github.com/academicpages/academicpages.github.io).
 
-The site logo ([android-neko](/assets/icons/android-neko.png)) is from [Google's Easter Egg in Android Nougat](https://lifehacker.com/how-to-play-googles-secret-neko-atsume-style-easter-egg-1786123017).
+The site logo is generated using [Jdenticon](https://jdenticon.com). Copyright (c) 2018 Daniel Mester Pirttijärvi. Jdenticon is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 This website incorporates [Academicons](https://jpswalsh.github.io/academicons/). 
 Copyright (c) James Walsh and Katja Berčič.
 Academicons is licensed under the [SIL OFL 1.1 license](http://scripts.sil.org/OFL).
 
 This website incorporates [Google Fonts](https://fonts.google.com/).
+
+The website's favicons are generated using [RealFaviconGenerator](https://realfavicongenerator.net/).
+
+Badges are generated using [Shields.io](https://shields.io). 
+
+The Creative Commons license in markdown format is imported from [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown).
