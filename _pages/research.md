@@ -1,8 +1,8 @@
 ---
-title: "Energy"
+title: "Research"
 layout: collection
-collection: energy
-permalink: /energy/
+collection: research
+permalink: /research/
 author_profile: true
 header:
   overlay_image: /assets/headers/wind.jpg

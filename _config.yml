@@ -129,21 +129,12 @@ author:
     - label: "Zotero"
       icon: "ai ai-zotero"
       url: "https://www.zotero.org/nmstreethran"
-    # - label: "OSF"
-    #   icon: "ai ai-osf"
-    #   url: "https://osf.io/br2ek/"
-    # - label: "figshare"
-    #   icon: "ai ai-figshare"
-    #   url: "https://figshare.com/authors/Nithiya_Streethran/6692177"
     # - label: "Spotify"
     #   icon: "fab fa-fw fa-spotify"
     #   url: "https://open.spotify.com/user/11180709296"
     # - label: "YouTube"
     #   icon: "fab fa-fw fa-youtube"
     #   url: "http://www.youtube.com/c/NithiyaMangalaStreethran"
-    # - label: "ResearchGate"
-    #   icon: "fab fa-fw fa-researchgate"
-    #   url: "https://www.researchgate.net/profile/Nithiya_Streethran"
 
 # Site Footer
 footer:
@@ -199,6 +190,7 @@ exclude:
   - /test # ignore Minimal Mistakes /test
   - .vscode/ # VScode folder and workspace
   - nmstreethran.github.io.code-workspace
+  - stf_wiki
 keep_files:
   - .git
   - .svn
@@ -221,7 +213,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 1..3
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
@@ -285,7 +277,7 @@ tag_archive:
 
 # Collections
 collections:
-  energy:
+  research:
     output: true
     permalink: /:collection/:path/
   open-science:
@@ -319,10 +311,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _energy
+  # _research
   - scope:
       path: ""
-      type: energy
+      type: research
     values:
       layout: single
       read_time: true
