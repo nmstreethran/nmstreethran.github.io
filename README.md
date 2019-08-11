@@ -10,12 +10,12 @@ Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mi
 All of my coding notes can be found in my [coding](https://github.com/nmstreethran/coding) repository.
 
 ## Table of contents <!-- omit in toc -->
-- [Credits](#credits)
-  - [Creator](#creator)
-  - [Icons + Demo Images](#icons--demo-images)
-  - [Other](#other)
-- [License](#license)
-- [Website-specific licenses and credits](#website-specific-licenses-and-credits)
+- [Credits](#Credits)
+  - [Creator](#Creator)
+  - [Icons + Demo Images](#Icons--Demo-Images)
+  - [Other](#Other)
+- [License](#License)
+- [Website-specific licenses and credits](#Website-specific-licenses-and-credits)
 
 ## Credits
 
@@ -112,7 +112,7 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 
 Unless otherwise stated, the website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com). Licensed under the [Creative Commons Attribution 4.0 International License](/LICENSE_content.md).
 
-Header images are imported from [Pixabay](https://pixabay.com). 
+Header images are imported from [Unsplash](https://unsplash.com/). 
 
 Some contents are adapted from [AcademicPages](https://github.com/academicpages/academicpages.github.io).
 

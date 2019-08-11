@@ -15,4 +15,6 @@ npm-debug.log*
 
 # Visual Studio Code
 .vscode/
+.travis.yml
+
 #*.code-workspace
