@@ -2,8 +2,8 @@
 layout: single
 title: "Curriculum Vitae"
 header:
-  overlay_image: /assets/headers/codex.jpg
-  caption: "Photo credit: [**Henryk Niestrój**](https://pixabay.com/photos/calligraphy-starodruk-manuscript-1527810/)"
+  overlay_image: /assets/headers/trees.jpg
+  caption: "Photo by [**Noah Silliman**](https://unsplash.com/@noahsilliman) on [**Unsplash**](https://unsplash.com/photos/01Qqkfz-ck8)"
   #overlay_filter: rgba(140, 114, 114, 0.5)
   #overlay_color: rgba(50, 0, 46, 0.5)
   # actions:
@@ -29,14 +29,14 @@ sidebar:
   - nav: "cv_nav"
 redirect_from:
   - /resume
-date: "2019-05-11"
+date: "2019-08-11"
 ---
 
 {% include base_path %}
 
 # [Nithiya Streethran](https://nmstreethran.github.io)
 
-*Early-stage researcher in energy transitions and aspiring open energy modeller*
+*Early-stage researcher in energy transitions*
 
   <span style="font-size:larger"><i class="fas fa-map-marker-alt"></i>&ensp;Norway</span>
   <div class="page__footer-follow">
@@ -65,27 +65,19 @@ date: "2019-05-11"
 
 # Education
 
-* *Sep 2016 - Aug 2017*: Master of Science (MSc)
+* *Sep 2016 - Aug 2017*: Master of Science (MSc), Renewable Energy Engineering
   * [**Heriot-Watt University**](https://www.hw.ac.uk/), Edinburgh, United Kingdom
-  * Renewable Energy Engineering
-* *Sep 2013 - May 2016*: Bachelor of Engineering (BEng)
+* *Sep 2013 - May 2016*: Bachelor of Engineering (BEng), Mechanical Engineering and Energy Engineering
   * [**Heriot-Watt University**](https://www.hw.ac.uk/), Edinburgh, United Kingdom
-  * Mechanical Engineering and Energy Engineering
   * Honours project: ["Fabrication of paper-based microfluidic devices for animal disease detection"](https://github.com/nmstreethran/paper-based-microfluidics) <i class="fab fa-github" title="Available in GitHub"></i>
-
-# Research interests
-
-* Energy system analysis
-* Electricity markets
-* Machine learning and data science for energy
-* Renewable energy grid integration
-* Open energy modelling
 
 # Skills
 
-* Coding: Python, Git, Matlab 
+* Coding: Python, Git, Matlab, machine learning
 * Office and typesetting: LaTeX, Office suite of applications
 * Operating systems: Microsoft Windows, Linux
+* Visualisation: Matplotlib, Google Charts, Ti*k*Z & PGF
+* Competencies: Interdisciplinary collaboration, teamwork, project management
 * Languages
   * English - *proficient*
   * Malay - *proficient; native language*
@@ -94,13 +86,15 @@ date: "2019-05-11"
 
 # Certificates
 
+* *Jul 2019*: [Energy Law, Policy, Planning and Governance](https://drive.google.com/file/d/17_TkYEmoV8Kt7SYQtN4FH1pRmL4MU8w8) *by* [University of Groningen](https://www.rug.nl/)
 * *May 2019*: [Module 5: Open Research Software and Open Source](https://eliademy.com/cert/6d3c52425b64ec051329915b9f7ffc94.html) *of* [Open Science MOOC](https://opensciencemooc.eu/) on Eliademy
 * *Apr 2019*: [Module 1: Open Principles](https://eliademy.com/cert/51789a843b13a9e9fc1dd4b73003641a.html) *of* [Open Science MOOC](https://opensciencemooc.eu/) on Eliademy
 * *Feb 2019*: [Mathematics for Machine Learning, a 3-course specialisation](https://www.coursera.org/account/accomplishments/specialization/G2PWUQQKSCX9) *by* [Imperial College London](http://www.imperial.ac.uk/) on Coursera
-* *Jan 2019*: Workshop on Energy Economics: Markets, Investment and Business *by* [University of Edinburgh](https://www.ed.ac.uk/)
-* *Sep 2018*: Modelling Energy Systems - Setting the Interdisciplinary Stage *by* [University of Flensburg](https://www.uni-flensburg.de/en/)
-* *Apr 2018*: Introduction to Energy Systems in Transition in the North Sea Region *by* [University of Groningen](https://www.rug.nl/)
-* *Sep 2017*: [Blue Growth Summer School](http://www.bluegrowth.ugent.be/summerschool/) *by* [Ghent University](https://www.ugent.be/)
+* *Jan 2019*: Workshop on [Energy Economics: Markets, Investment and Business](https://drive.google.com/file/d/1Q8nkSsTQLcJgS1KTpi66p2lLgtJXBdwk) *by* [University of Edinburgh](https://www.ed.ac.uk/)
+* *Jan 2019*: [A1 Norwegian Course for Foreigners with Higher Education](https://drive.google.com/file/d/1vzmMYYEHgd_oC7QfPnHetWKy6S1VDkcJ) *by* [University of Stavanger](https://www.uis.no/)
+* *Sep 2018*: Summer School on [Modelling Energy Systems - Setting the Interdisciplinary Stage](https://drive.google.com/file/d/1HASIGgSMnPvrC8Vz-YPpv56V_YMg-ia5) *by* [University of Flensburg](https://www.uni-flensburg.de/en/)
+* *Apr 2018*: Workshop on [Introduction to Energy Systems in Transition in the North Sea Region](https://drive.google.com/file/d/1wIy6ewZBQsWNsiZ5sgDHyQNTlyP_IcxF) *by* [University of Groningen](https://www.rug.nl/)
+* *Sep 2017*: [Blue Growth Summer School](https://drive.google.com/file/d/196PxBAFG5a6VxqSYh62UsuCXnKqLxr1R) *by* [Ghent University](https://www.ugent.be/)
 
 # Memberships
 
@@ -108,10 +102,18 @@ date: "2019-05-11"
 * *Jun 2018 - present*: Member, [Norwegian Association of Researchers](https://www.forskerforbundet.no/english/)
 * *Sep 2017 - present*: Associate Member, [Institution of Mechanical Engineers](http://www.imeche.org/)
 
-# General interests
+# Interests
 
-* Sustainable development
-* Walking
-* Open science
-* Animal welfare
-* Role-playing games
+* Professional 
+  * Energy system analysis
+  * Energy markets
+  * Data science for energy applications
+  * Electrification with renewable energy
+  * Open science and open source practices
+
+* General
+  * Sustainability
+  * Walking
+  * Technology
+  * Animal welfare
+  * Role-playing games

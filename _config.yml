@@ -96,7 +96,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
    - "https://twitter.com/nmstreethran"
-   - "https://www.linkedin.com/in/nmstreethran"
 
 # Analytics
 analytics:
@@ -110,7 +109,7 @@ analytics:
 author:
   name             : "Nithiya Streethran"
   avatar           : "/assets/icons/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Early-Stage Researcher and aspiring open energy modeller."
+  bio              : "Early-stage researcher in energy transitions. Interested in renewable energy, sustainability, coding and open science. Fan of the Elder Scrolls series."
   location         : "Norway"
   email            :
   links:
@@ -161,8 +160,6 @@ include:
   - .htaccess
   - _pages
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
   - vendor
   - .asset-cache
   - .bundle
@@ -190,7 +187,6 @@ exclude:
   - /test # ignore Minimal Mistakes /test
   - .vscode/ # VScode folder and workspace
   - nmstreethran.github.io.code-workspace
-  - stf_wiki
 keep_files:
   - .git
   - .svn
@@ -260,6 +256,9 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
@@ -276,19 +275,19 @@ tag_archive:
 #     tag: /tags/:name/
 
 # Collections
-collections:
-  research:
-    output: true
-    permalink: /:collection/:path/
-  open-science:
-    output: true
-    permalink: /:collection/:path/
-  random:
-    output: true
-    permalink: /:collection/:path/
-  sustainability:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   research:
+#     output: true
+#     permalink: /:collection/:path/
+#   open-science:
+#     output: true
+#     permalink: /:collection/:path/
+#   random:
+#     output: true
+#     permalink: /:collection/:path/
+#   sustainability:
+#     output: true
+#     permalink: /:collection/:path/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -311,55 +310,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      read_time: true
-      author_profile: true
-      share: true
-      comments: false
       header:
-        overlay_image: /assets/headers/wind.jpg
-        caption: "Photo credit: [**skeeze**](https://pixabay.com/photos/wind-farm-windmills-turbines-energy-538576/)"
-  # _open-science
-  - scope:
-      path: ""
-      type: open-science
-    values:
-      layout: single
-      read_time: true
-      author_profile: true
-      share: true
-      comments: false
-      header:
-        overlay_image: /assets/headers/cats.jpg
-        caption: "Photo credit: [**DarkWorkX**](https://pixabay.com/illustrations/vintage-kitten-school-kittens-cat-4178304/)"
-  # _random
-  - scope:
-      path: ""
-      type: random
-    values:
-      layout: single
-      read_time: true
-      author_profile: true
-      share: true
-      comments: false
-      header:
-        overlay_image: /assets/headers/leaves.jpg
-        caption: "Photo credit: [**Pexels**](https://pixabay.com/photos/leaves-nature-plant-tree-trunk-1839959/)"
-  # _sustainability
-  - scope:
-      path: ""
-      type: sustainability
-    values:
-      layout: single
-      read_time: true
-      author_profile: true
-      share: true
-      comments: false
-      header:
-        overlay_image: /assets/headers/chicken.jpg
-        caption: "Photo credit: [**Andreas Göllner**](https://pixabay.com/photos/animals-chicks-mother-hen-nature-3509098/)"
+        overlay_image: /assets/headers/trees.jpg
+        caption: "Photo by [**Noah Silliman**](https://unsplash.com/@noahsilliman) on [**Unsplash**](https://unsplash.com/photos/01Qqkfz-ck8)"
