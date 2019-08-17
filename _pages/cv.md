@@ -34,7 +34,7 @@ date: "2019-08-11"
 
 {% include base_path %}
 
-# [Nithiya Streethran](https://nmstreethran.github.io)
+# Nithiya Streethran
 
 *Early-stage researcher in energy transitions*
 

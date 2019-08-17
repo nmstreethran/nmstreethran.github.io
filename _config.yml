@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                    : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+theme                    : "minimal-mistakes-jekyll"
+# remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "forest" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -125,15 +125,6 @@ author:
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0003-0575-5798"
-    - label: "Zotero"
-      icon: "ai ai-zotero"
-      url: "https://www.zotero.org/nmstreethran"
-    # - label: "Spotify"
-    #   icon: "fab fa-fw fa-spotify"
-    #   url: "https://open.spotify.com/user/11180709296"
-    # - label: "YouTube"
-    #   icon: "fab fa-fw fa-youtube"
-    #   url: "http://www.youtube.com/c/NithiyaMangalaStreethran"
 
 # Site Footer
 footer:
@@ -150,9 +141,6 @@ footer:
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0003-0575-5798"
-    - label: "Zotero"
-      icon: "ai ai-zotero"
-      url: "https://www.zotero.org/nmstreethran"
 
 
 # Reading Files
