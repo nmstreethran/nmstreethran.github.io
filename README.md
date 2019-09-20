@@ -46,7 +46,7 @@ Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mi
 
 ## License
 
-[The MIT License (MIT)](/LICENSE)
+[The MIT License (MIT)](LICENSE)
 
 Copyright (c) 2013-2019 Michael Rose and contributors
 
@@ -108,7 +108,7 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 
 ## Website-specific licenses and credits
 
-Unless otherwise stated, the website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com). Licensed under the [Creative Commons Attribution 4.0 International License](/LICENSE_content.md).
+Unless otherwise stated, the website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com). Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE_content.md).
 
 Header images are imported from [Unsplash](https://unsplash.com/). 
 
