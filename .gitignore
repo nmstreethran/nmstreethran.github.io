@@ -15,4 +15,4 @@ npm-debug.log*
 
 # Visual Studio Code
 .vscode/
-#*.code-workspace
+*.code-workspace
