@@ -4,6 +4,7 @@ excerpt: ""
 tags:
 - random
 - music
+- entertainment
 ---
 
 I would like to share a couple of Spotify playlists I have made! 

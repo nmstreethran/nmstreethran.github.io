@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Nithiya Streethran"
   avatar           : "/assets/icons/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Early-stage researcher in energy transitions. Interested in renewable energy, sustainability, coding and open science. Fan of the Elder Scrolls series."
+  bio              : "Early-stage researcher in energy transitions. Passionate about sustainability and open science. Fan of the Elder Scrolls series."
   location         : "Norway"
   email            :
   links:
@@ -265,15 +265,6 @@ tag_archive:
 # Collections
 # collections:
 #   research:
-#     output: true
-#     permalink: /:collection/:path/
-#   open-science:
-#     output: true
-#     permalink: /:collection/:path/
-#   random:
-#     output: true
-#     permalink: /:collection/:path/
-#   sustainability:
 #     output: true
 #     permalink: /:collection/:path/
 
