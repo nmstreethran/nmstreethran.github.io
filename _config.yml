@@ -29,19 +29,10 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    # colorscheme          : "dark" # "light" (default), "dark"
+  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   utterances:
-    # theme                : "github-dark" # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme                : "github-dark-orange" # "github-light" (default), "github-dark"
+    repo                 : "nmstreethran/nmstreethran.github.io"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -83,7 +74,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : "nmstreethran"
 facebook:
   username               :
   app_id                 :
@@ -171,8 +162,6 @@ exclude:
   - Rakefile
   - README.md
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
   - .vscode/ # VScode folder and workspace
   - nmstreethran.github.io.code-workspace
 keep_files:
