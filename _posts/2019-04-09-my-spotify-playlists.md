@@ -7,9 +7,9 @@ tags:
 - entertainment
 ---
 
-I would like to share a couple of Spotify playlists I have made! 
+I would like to share a couple of Spotify playlists I have made!
 
-The first is [Jeremy Soule - TES](https://open.spotify.com/user/11180709296/playlist/595ODoohu5H1ZYhaGmFZBj?si=ij3xAZJTSv2G9BUGX-tsyA), which contains all of my favourite soundtracks from [The Elder Scrolls](https://elderscrolls.bethesda.net/en) III, IV and V, composed by the one and only [Jeremy Soule](https://www.facebook.com/OfficialJeremySoule/). I listen to these tracks while working, so you will not find any combat music or distracting tunes in this playlist. 
+The first is [Jeremy Soule - TES](https://open.spotify.com/user/11180709296/playlist/595ODoohu5H1ZYhaGmFZBj?si=ij3xAZJTSv2G9BUGX-tsyA), which contains all of my favourite soundtracks from [The Elder Scrolls](https://elderscrolls.bethesda.net/en) III, IV and V, composed by the one and only [Jeremy Soule](https://www.facebook.com/OfficialJeremySoule/). I listen to these tracks while working, so you will not find any combat music or distracting tunes in this playlist.
 
 <iframe src="https://open.spotify.com/embed/user/11180709296/playlist/595ODoohu5H1ZYhaGmFZBj" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><iframe src="https://open.spotify.com/embed/user/11180709296/playlist/1FUq8L9C7PgtBI6ELlY5Ry" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 

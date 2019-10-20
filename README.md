@@ -13,7 +13,7 @@ Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mi
   - [Icons + Demo Images](#icons--demo-images)
   - [Other](#other)
 - [License](#license)
-- [Website-specific licenses and credits](#website-specific-licenses-and-credits)
+- [Website-specific license and credits](#website-specific-license-and-credits)
 
 ## Credits
 
@@ -106,7 +106,7 @@ Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-## Website-specific licenses and credits
+## Website-specific license and credits
 
 Unless otherwise stated, the website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com). Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE_content.md).
 
@@ -127,3 +127,5 @@ The website's favicons are generated using [RealFaviconGenerator](https://realfa
 Badges are generated using [Shields.io](https://shields.io). 
 
 The Creative Commons license in markdown format is imported from [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown).
+
+The color scheme is inspired by the [SynthWave '84 VS Code theme by Robb Owen](https://github.com/robb0wen/synthwave-vscode).

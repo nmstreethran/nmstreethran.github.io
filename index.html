@@ -1,18 +1,62 @@
 ---
 layout: splash
-title: "Welcome 🌙 ⭐ to my personal site!"
+title: "Welcome to my personal site!"
 header:
   overlay_image: /assets/headers/trees.jpg
-  caption: "Photo by [**Noah Silliman**](https://unsplash.com/@noahsilliman) on [**Unsplash**](https://unsplash.com/photos/01Qqkfz-ck8)"
+  caption: "Photo by [**Nathan Anderson**](https://unsplash.com/@nathananderson) on [**Unsplash**](https://unsplash.com/photos/-6SPgTK2pOE)"
 ---
 
-<div align="center">
-  <div class="author__avatar">
-    <img src="assets/icons/avatar.jpg" alt="Nithiya Streethran">
+
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
+
+<div itemscope itemtype="https://schema.org/Person" align="center">
+
+  {% if author.avatar %}
+    <div class="author__avatar">
+      {% if author.avatar contains "://" %}
+        {% assign author_src = author.avatar %}
+      {% else %}
+        {% assign author_src = author.avatar | relative_url %}
+      {% endif %}
+
+      {% if author.home %}
+        {% if author.home contains "://" %}
+          {% assign author_link = author.home %}
+        {% else %}
+          {% assign author_link = author.home | relative_url %}
+        {% endif %}
+        <a href="{{ author_link }}">
+          <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+        </a>
+      {% else %}
+        <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div class="author__content">
+    {% if author.home %}
+      <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
+    {% else %}
+      <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
+    {% endif %}
+    {% if author.bio %}
+      <p class="author__bio" itemprop="description">
+        {{ author.bio }}
+      </p>
+    {% endif %}
   </div>
-  <div>
-    <h1>Nithiya Streethran</h1>
-    <p>Early-stage researcher in energy transitions. <br>Passionate about sustainability and open science. <br>Fan of the Elder Scrolls series.</p>
-    <i class="fas fa-map-marker-alt"></i> <span>Norway</span>
+
+  <div class="author__urls-wrapper">
+    <ul class="author__urls social-icons">
+      {% if author.location %}
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+        </li>
+      {% endif %}
+
+      {% include author-profile-custom-links.html %}
+    </ul>
   </div>
 </div>

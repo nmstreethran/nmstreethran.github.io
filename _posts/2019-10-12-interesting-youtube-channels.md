@@ -3,7 +3,6 @@ title: "Interesting YouTube channels"
 excerpt: ""
 tags:
 - random
-- music
 - entertainment
 toc: true
 toc_sticky: true

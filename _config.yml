@@ -12,7 +12,7 @@
 
 # theme                    : "minimal-mistakes-jekyll"
 # remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "forest" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "synthwave" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Nithiya Streethran"
   avatar           : "/assets/icons/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Early-stage researcher in energy transitions. Passionate about sustainability and open science. Fan of the Elder Scrolls series."
+  bio              : "Early-stage researcher in energy systems transition.<br>Passionate about sustainability and open science.<br>Fan of the Elder Scrolls series. 🧝🌙⭐"
   location         : "Norway"
   email            :
   links:
@@ -291,4 +291,4 @@ defaults:
       related: true
       header:
         overlay_image: /assets/headers/trees.jpg
-        caption: "Photo by [**Noah Silliman**](https://unsplash.com/@noahsilliman) on [**Unsplash**](https://unsplash.com/photos/01Qqkfz-ck8)"
+        caption: "Photo by [**Nathan Anderson**](https://unsplash.com/@nathananderson) on [**Unsplash**](https://unsplash.com/photos/-6SPgTK2pOE)"

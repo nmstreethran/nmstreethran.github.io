@@ -11,7 +11,7 @@ tags:
 
 # Version control system
 
-* [Git](https://git-scm.com/) 
+* [Git](https://git-scm.com/)
 
 # Source code editor
 
@@ -36,7 +36,7 @@ tags:
 * [Anaconda](https://www.anaconda.com/)
 * [Jupyter](https://jupyter.org/)
 * [Pandas](https://pandas.pydata.org/)
-* [JSFiddle](https://jsfiddle.net/) 
+* [JSFiddle](https://jsfiddle.net/)
 
 # Typesetting and office
 
@@ -64,11 +64,11 @@ tags:
 
 # Machine learning
 
-* [scikit-learn](https://scikit-learn.org/) 
+* [scikit-learn](https://scikit-learn.org/)
 
 # Bibliography management
 
-* [Zotero](https://www.zotero.org) 
+* [Zotero](https://www.zotero.org)
   * [Better BibTeX](https://retorque.re/zotero-better-bibtex/)
   * [ZotFile](http://zotfile.com/)
 * [JabRef](http://www.jabref.org/)

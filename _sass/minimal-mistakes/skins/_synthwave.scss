@@ -1,40 +1,41 @@
 /* ==========================================================================
    Modified neon skin
+   colour scheme based on robb0wen/synthwave-vscode
    ========================================================================== */
 
 /* Colors */
-$background-color: #040B04 !default;
+$background-color: #2a2139 !default;
 $text-color: #fff6fb !default;
-$primary-color: #2E8B57 !default;
+$primary-color: #03edf9 !default; 
 $border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;
 $form-background-color: mix(#000, $background-color, 15%) !default;
-$footer-background-color: mix($primary-color, #000, 10%) !default;
-$link-color: mix(#fff, $primary-color, 15%) !default;
-$link-color-hover: mix(#fff, $link-color, 30%) !default;
+$footer-background-color: mix(#000, $background-color, 50%) !default;
+$link-color: mix(#ff7edb, $primary-color, 25%) !default;
+$link-color-hover: mix(#ff7edb, $link-color, 30%) !default;
 $link-color-visited: mix(#000, $link-color, 25%) !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
-/* neon syntax highlighting (base16) */
-$base00: #ffffff !default;
-$base01: #e0e0e0 !default;
-$base02: #d0d0d0 !default;
-$base03: #b0b0b0 !default;
-$base04: #000000 !default;
-$base05: #101010 !default;
-$base06: #151515 !default;
-$base07: #202020 !default;
-$base08: #ff0086 !default;
-$base09: #fd8900 !default;
-$base0a: #aba800 !default;
-$base0b: #00c918 !default;
-$base0c: #1faaaa !default;
-$base0d: #3777e6 !default;
-$base0e: #ad00a1 !default;
-$base0f: #cc6633 !default;
+/* synthwave syntax highlighting (base16) */
+$base00: $code-background-color-dark; /* background */
+$base01: #282a2e;
+$base02: #373b41;
+$base03: #969896;
+$base04: #495495; /* comments */
+$base05: #c5c8c6; /* normal */
+$base06: #e0e0e0;
+$base07: #ffffff;
+$base08: #ff7edb; /* variables */
+$base09: #ff7edb; /* variables */
+$base0a: #ff7edb; /* names */
+$base0b: #ff8b39; /* strings */
+$base0c: #fede5d; /* keywords */
+$base0d: #72f1b8; /* functions */
+$base0e: #fede5d; /* operators; same as 0c */
+$base0f: #a3685a;
 
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons .svg-inline--fa {
