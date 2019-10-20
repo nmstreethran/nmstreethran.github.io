@@ -1,11 +1,11 @@
 # [nmstreethran.github.io](https://nmstreethran.github.io/) <!-- omit in toc -->
 
-[![Site License: MIT](https://img.shields.io/badge/Site%20License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Content License: CC BY 4.0](https://img.shields.io/badge/Content%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Site License: MIT](https://img.shields.io/badge/Site%20License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Content License: CC BY 4.0](https://img.shields.io/badge/Content%20License-CC%20BY%204.0-blue.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
-My personal website! 
+My personal website!
 
-Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes). 
+Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes).
 
 ## Table of contents <!-- omit in toc -->
 - [Credits](#credits)
@@ -110,22 +110,22 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 
 Unless otherwise stated, the website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com). Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE_content.md).
 
-Header images are imported from [Unsplash](https://unsplash.com/). 
+Header images are imported from [Unsplash](https://unsplash.com/).
 
 Some contents are adapted from [AcademicPages](https://github.com/academicpages/academicpages.github.io).
 
 The site logo is generated using [Jdenticon](https://jdenticon.com). Copyright (c) 2018 Daniel Mester Pirttijärvi. Jdenticon is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-This website incorporates [Academicons](https://jpswalsh.github.io/academicons/). 
-Copyright (c) James Walsh and Katja Berčič.
-Academicons is licensed under the [SIL OFL 1.1 license](http://scripts.sil.org/OFL).
+This website incorporates [Academicons](https://jpswalsh.github.io/academicons/). Copyright (c) James Walsh and Katja Berčič. Academicons is licensed under the [SIL OFL 1.1 license](http://scripts.sil.org/OFL).
 
-This website incorporates [Google Fonts](https://fonts.google.com/).
+This website incorporates [Google Fonts](https://fonts.google.com/). The [Homemade Apple](https://fonts.google.com/specimen/Homemade+Apple) font, designed by Font Diner, is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 The website's favicons are generated using [RealFaviconGenerator](https://realfavicongenerator.net/).
 
-Badges are generated using [Shields.io](https://shields.io). 
+Badges are generated using [Shields.io](https://shields.io).
 
 The Creative Commons license in markdown format is imported from [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown).
 
-The color scheme is inspired by the [SynthWave '84 VS Code theme by Robb Owen](https://github.com/robb0wen/synthwave-vscode).
+The color scheme is inspired by the [SynthWave '84 VS Code theme](https://github.com/robb0wen/synthwave-vscode). Copyright (c) 2019 Robb Owen. Licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
+
+Comments are powered by [utterances](https://utteranc.es/). Copyright (c) 2018 Jeremy Danyow. Licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
