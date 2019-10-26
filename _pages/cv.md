@@ -3,7 +3,7 @@ layout: single
 title: "Curriculum Vitae"
 header:
   overlay_image: /assets/headers/trees.jpg
-  caption: "Photo by [**Nathan Anderson**](https://unsplash.com/@nathananderson) on [**Unsplash**](https://unsplash.com/photos/-6SPgTK2pOE)"
+  caption: "Photo by [**Samuel Ferrara**](https://unsplash.com/@samferrara) on [**Unsplash**](https://unsplash.com/photos/iecJiKe_RNg)"
 permalink: /cv/
 sidebar:
   - image: "/assets/icons/avatar.jpg"
@@ -12,26 +12,47 @@ sidebar:
 redirect_from:
   - /resume
 date: "2019-10-12"
+comments: true
 ---
 
 {% include base_path %}
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
 
 # Nithiya Streethran
 
-  <span style="font-size:larger"><i class="fas fa-map-marker-alt"></i>&ensp;Norway</span>
-  <div class="page__footer-follow">
-    <ul class="social-icons">
-      {% if site.footer.links %}
-        {% for link in site.footer.links %}
-          {% if link.label and link.url %}
-            <span style="font-size:larger">
-              <li><a title="{{ link.label }}" href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> </a></li>
-            </span>
-          {% endif %}
-        {% endfor %}
+<!-- social icons and location -->
+
+<div itemscope itemtype="https://schema.org/Person">
+  <div class="author__urls-wrapper">
+    <ul class="author__urls social-icons">
+      {% if author.location %}
+        <span style="font-size:larger">
+          <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+            <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+          </li>
+        </span>
       {% endif %}
+      {% include author-profile-custom-links.html %}
     </ul>
   </div>
+</div>
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <span style="font-size:larger">
+            <li><a title="{{ link.label }}" href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> </a></li>
+          </span>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </ul>
+</div>
+
+<!-- end -->
 
 # Experience
 

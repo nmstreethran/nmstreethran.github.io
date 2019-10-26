@@ -108,24 +108,32 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 
 ## Website-specific license and credits
 
-Unless otherwise stated, the website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com). Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE_content.md).
-
-Header images are imported from [Unsplash](https://unsplash.com/).
+Unless otherwise stated, the website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com).
+Contents are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE_content.md).
 
 Some contents are adapted from [AcademicPages](https://github.com/academicpages/academicpages.github.io).
 
-The site logo is generated using [Jdenticon](https://jdenticon.com). Copyright (c) 2018 Daniel Mester Pirttijärvi. Jdenticon is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The site logo is generated using [Jdenticon](https://jdenticon.com).
+Copyright (c) 2018 Daniel Mester Pirttijärvi.
+Jdenticon is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-This website incorporates [Academicons](https://jpswalsh.github.io/academicons/). Copyright (c) James Walsh and Katja Berčič. Academicons is licensed under the [SIL OFL 1.1 license](http://scripts.sil.org/OFL).
+This website incorporates [Academicons](https://jpswalsh.github.io/academicons/).
+Copyright (c) James Walsh and Katja Berčič.
+Academicons is licensed under the [SIL OFL 1.1 license](http://scripts.sil.org/OFL).
 
-This website incorporates [Google Fonts](https://fonts.google.com/). The [Homemade Apple](https://fonts.google.com/specimen/Homemade+Apple) font, designed by Font Diner, is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+This website incorporates [Google Fonts](https://fonts.google.com/).
+The [Homemade Apple](https://fonts.google.com/specimen/Homemade+Apple) font, designed by Font Diner, is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 The website's favicons are generated using [RealFaviconGenerator](https://realfavicongenerator.net/).
 
-Badges are generated using [Shields.io](https://shields.io).
+Badges are generated using [Shields.io](https://shields.io), licensed under the Creative Commons Zero v1.0 Universal license.
 
 The Creative Commons license in markdown format is imported from [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown).
 
-The color scheme is inspired by the [SynthWave '84 VS Code theme](https://github.com/robb0wen/synthwave-vscode). Copyright (c) 2019 Robb Owen. Licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
+The color scheme is inspired by the [SynthWave '84 VS Code theme](https://github.com/robb0wen/synthwave-vscode).
+Copyright (c) 2019 Robb Owen.
+SynthWave '84 is licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
 
-Comments are powered by [utterances](https://utteranc.es/). Copyright (c) 2018 Jeremy Danyow. Licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
+Comments are powered by [utterances](https://utteranc.es/).
+Copyright (c) 2018 Jeremy Danyow.
+utterances is licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
