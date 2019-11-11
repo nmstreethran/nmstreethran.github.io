@@ -2,7 +2,6 @@
 title: "Versioning GitHub projects and indexing them with Zenodo"
 excerpt: ""
 tags:
-- open science
 - open source
 - random
 categories:
@@ -23,6 +22,5 @@ The files can be found in this [GitHub repository](https://github.com/nmstreethr
 
 The repository contains [computer-aided design (CAD) files and engineering drawings](https://github.com/nmstreethran/paper-based-microfluidics/blob/master/CAD_files) of four different design concepts of paper-based microfluidic devices, in addition to the [final report](https://github.com/nmstreethran/paper-based-microfluidics/blob/master/final_report.pdf).
 
-If you find this interesting, please let me know.
+If you find this interesting, please let me know!
 
-P.S., I highly recommend everyone to join the [Open Science MOOC](https://opensciencemooc.eu/)!

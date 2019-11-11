@@ -2,8 +2,8 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
- - title: "CV"
-   url: /cv/
+#  - title: "CV"
+#    url: /cv/
  - title: "Projects" # categories
    url: /categories/
  - title: "Posts"
@@ -17,21 +17,21 @@ main:
 #  - title: "Research-in-progress"
 #    url: https://ensystra.github.io/short-term-forecasting/
 
-cv_nav:
-  - title: "Curriculum Vitae"
-    url: "/cv/#top"
-    children:
-      - title: "About"
-        url: "cv/#nithiya-streethran"
-      - title: "Experience"
-        url  : "/cv/#experience"
-      - title: "Education"
-        url  : "/cv/#education"
-      - title: "Skills"
-        url  : "/cv/#skills"
-      - title: "Certificates"
-        url  : "/cv/#certificates"
-      - title: "Memberships"
-        url  : "/cv/#memberships"
-      - title: "Interests"
-        url  : "/cv/#interests"
+# cv_nav:
+#   - title: "Curriculum Vitae"
+#     url: "/cv/#top"
+#     children:
+#       - title: "About"
+#         url: "cv/#nithiya-streethran"
+#       - title: "Experience"
+#         url  : "/cv/#experience"
+#       - title: "Education"
+#         url  : "/cv/#education"
+#       - title: "Skills"
+#         url  : "/cv/#skills"
+#       - title: "Certificates"
+#         url  : "/cv/#certificates"
+#       - title: "Memberships"
+#         url  : "/cv/#memberships"
+#       - title: "Interests"
+#         url  : "/cv/#interests"

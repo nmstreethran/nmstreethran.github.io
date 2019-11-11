@@ -1,62 +1,33 @@
 ---
-layout: splash
+layout: single
 title: "Welcome to my personal site!"
+sidebar:
+  - image: "/assets/icons/avatar.jpg"
+    image_alt: "Nithiya Streethran"
+    text: "Picture of me standing in front of the [Black Spout waterfall](https://www.visitscotland.com/info/towns-villages/black-spout-p253611) in Pitlochry, Scotland (January 2019)."
 header:
   overlay_image: /assets/headers/trees.jpg
   caption: "Photo by [**Samuel Ferrara**](https://unsplash.com/@samferrara) on [**Unsplash**](https://unsplash.com/photos/iecJiKe_RNg)"
+comments: true
 ---
 
+<p>
+Hello! My name is Nithiya Streethran.
+</p>
 
-{% assign author = page.author | default: page.authors[0] | default: site.author %}
-{% assign author = site.data.authors[author] | default: author %}
+<p>
+I am an early-stage researcher interested in improving decision making processes in energy systems by applying data science methods. To be more specific, I am currently focussing on applying machine learning methods to forecast renewable electricity production and optimise the dispatch of generating units in short-term electricity markets. I have an academic background in mechanical engineering, specialising in renewable energy.
+</p>
 
-<div itemscope itemtype="https://schema.org/Person" align="center">
+<p>
+I am a self-taught programmer and aspiring open source software developer, with experience using languages including Python, LaTeX, HTML and CSS. I use Linux (Ubuntu) as my primary operating system, and switch to Microsoft Windows occasionally to play my favourite role-playing games (i.e., The Elder Scrolls series 🧝🌙⭐). I am also passionate about sustainability, history and houseplants.
+</p>
 
-  {% if author.avatar %}
-    <div class="author__avatar">
-      {% if author.avatar contains "://" %}
-        {% assign author_src = author.avatar %}
-      {% else %}
-        {% assign author_src = author.avatar | relative_url %}
-      {% endif %}
+<p>
+I am always looking to improve my knowledge, learn new skills and broaden my perspectives. Would you like to keep in touch with me, or perhaps collaborate, or send me some feedback? Please feel free to leave a comment below (requires a GitHub account), or contact me via <a href="https://twitter.com/nmstreethran">Twitter</a>. If you would like to know more about my professional background, please view my <a href="https://linkedin.com/in/nmstreethran">LinkedIn</a> profile.
+</p>
 
-      {% if author.home %}
-        {% if author.home contains "://" %}
-          {% assign author_link = author.home %}
-        {% else %}
-          {% assign author_link = author.home | relative_url %}
-        {% endif %}
-        <a href="{{ author_link }}">
-          <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
-        </a>
-      {% else %}
-        <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
-      {% endif %}
-    </div>
-  {% endif %}
+<p>
+Thank you for visiting my site! 😄
+</p>
 
-  <div class="author__content">
-    {% if author.home %}
-      <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
-    {% else %}
-      <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
-    {% endif %}
-    {% if author.bio %}
-      <p class="author__bio" itemprop="description">
-        {{ author.bio }}
-      </p>
-    {% endif %}
-  </div>
-
-  <div class="author__urls-wrapper">
-    <ul class="author__urls social-icons">
-      {% if author.location %}
-        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
-        </li>
-      {% endif %}
-
-      {% include author-profile-custom-links.html %}
-    </ul>
-  </div>
-</div>
