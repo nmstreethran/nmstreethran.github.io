@@ -31,7 +31,7 @@ Copyright (c) 2017 Dave Gandy.
 Font Awesome is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL) 
 and [MIT License](http://opensource.org/licenses/MIT).
 
-Minimal Mistakes incorporates photographs from [Unsplash](https://unsplash.com).
+Minimal Mistakes incorporates photographs from [Unsplash](https://unsplash.com) (public domain).
 
 Minimal Mistakes incorporates [Susy](http://susy.oddbird.net/),
 Copyright (c) 2017, Miriam Eric Suzanne.
@@ -83,7 +83,7 @@ Academicons is licensed under the [SIL OFL 1.1 license](http://scripts.sil.org/O
 This website incorporates [Google Fonts](https://fonts.google.com/).
 The [Homemade Apple](https://fonts.google.com/specimen/Homemade+Apple) font, designed by Font Diner, is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-Badges are generated using [Shields.io](https://shields.io), licensed under the Creative Commons Zero v1.0 Universal license.
+Badges are generated using [Shields.io](https://shields.io), licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
 
 The color scheme is inspired by the [SynthWave '84 VS Code theme](https://github.com/robb0wen/synthwave-vscode).
 Copyright (c) 2019 Robb Owen.

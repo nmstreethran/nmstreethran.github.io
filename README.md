@@ -126,7 +126,7 @@ The [Homemade Apple](https://fonts.google.com/specimen/Homemade+Apple) font, des
 
 The website's favicons are generated using [RealFaviconGenerator](https://realfavicongenerator.net/).
 
-Badges are generated using [Shields.io](https://shields.io), licensed under the Creative Commons Zero v1.0 Universal license.
+Badges are generated using [Shields.io](https://shields.io), licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
 
 The Creative Commons license in markdown format is imported from [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown).
 
