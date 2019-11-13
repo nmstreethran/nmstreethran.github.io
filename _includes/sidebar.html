@@ -11,6 +11,7 @@
           "{{ s.image | relative_url }}"
         {% endif %}
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+        {% if s.caption %}<figcaption>{{ s.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>{% endif %}
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}

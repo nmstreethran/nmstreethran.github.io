@@ -14,13 +14,13 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: 
-    "Palatino Linotype", "Book Antiqua", Garamond, Georgia, Times,
+    "Palatino Linotype", "Book Antiqua", Garamond, "EB Garamond", Georgia, Times,
     serif !default;
 $sans-serif: 
     -apple-system, BlinkMacSystemFont, "Roboto", "Oxygen", "Cantarell",
     "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial,
     sans-serif !default;
-$monospace: Monaco, Menlo, Consolas, "Courier New", monospace !default;
+$monospace: Monaco, Menlo, Consolas, "Ubuntu Mono", "Courier New", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
@@ -31,7 +31,7 @@ $georgia: Georgia, serif !default;
 $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
-$garamond: Garamond, serif !default;
+$garamond: Garamond, "EB Garamond", serif !default;
 
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;

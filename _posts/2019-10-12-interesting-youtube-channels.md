@@ -2,8 +2,8 @@
 title: "Interesting YouTube channels"
 excerpt: ""
 tags:
-- random
 - entertainment
+- random
 toc: true
 toc_sticky: true
 excerpt: "My source of entertainment"

@@ -2,9 +2,9 @@
 title: "My Spotify playlists"
 excerpt: ""
 tags:
-- random
-- music
 - entertainment
+- music
+- random
 ---
 
 I would like to share a couple of Spotify playlists I have made!
@@ -13,4 +13,4 @@ The first is [Jeremy Soule - TES](https://open.spotify.com/user/11180709296/play
 
 <iframe src="https://open.spotify.com/embed/user/11180709296/playlist/595ODoohu5H1ZYhaGmFZBj" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><iframe src="https://open.spotify.com/embed/user/11180709296/playlist/1FUq8L9C7PgtBI6ELlY5Ry" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-The second playlist is [Climate Change](https://open.spotify.com/user/11180709296/playlist/1FUq8L9C7PgtBI6ELlY5Ry?si=it6ou617Qr-JSQHvFQGmnQ). I started this off by adding songs that were in The Guardian's [readers recommended playlist on songs about climate change](https://www.theguardian.com/music/2016/apr/28/readers-recommend-playlist-songs-about-climate-change). I then added a few other tracks which I feel send some message about anthropogenic warming of the Earth. If you have any suggestions to add to this playlist, please tweet me [@nmstreethran](https://twitter.com/nmstreethran)! And let us all do our part to help mitigate climate change.
+The second playlist is [Climate Change](https://open.spotify.com/user/11180709296/playlist/1FUq8L9C7PgtBI6ELlY5Ry?si=it6ou617Qr-JSQHvFQGmnQ). I started this off by adding songs that were in The Guardian's [readers recommended playlist on songs about climate change](https://www.theguardian.com/music/2016/apr/28/readers-recommend-playlist-songs-about-climate-change). I then added a few other tracks which I feel send some message about anthropogenic warming of the Earth. If you have any suggestions to add to this playlist, please let me know via Twitter or in the comments below! And let us all do our part to help mitigate climate change.

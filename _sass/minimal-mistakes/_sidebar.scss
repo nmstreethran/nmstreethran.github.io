@@ -284,7 +284,8 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      /* text-decoration: underline; */
+      color: $link-color-hover;
     }
   }
 }

@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "Nithiya Streethran"
   avatar           : "/assets/icons/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Early-stage researcher. Passionate about renewable energy, sustainability, open source and data science. Likes houseplants, cats and The Elder Scrolls. 🌱🐈🧝"
+  bio              : "Early-stage researcher. Interested in open source and data science for energy and sustainability. Likes houseplants, cats and The Elder Scrolls. 🌱🐈🧝"
   location         : "Norway"
   email            :
   links:
@@ -267,17 +267,19 @@ compress_html:
 
 # Defaults
 defaults:
+  - values:
+      author_profile: true
+      layout: single
+      header:
+        overlay_image: /assets/headers/trees.jpg
+        caption: "*Photo by [**Samuel Ferrara**](https://unsplash.com/@samferrara) on [**Unsplash**](https://unsplash.com/photos/iecJiKe_RNg)*"
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-      header:
-        overlay_image: /assets/headers/trees.jpg
-        caption: "Photo by [**Samuel Ferrara**](https://unsplash.com/@samferrara) on [**Unsplash**](https://unsplash.com/photos/iecJiKe_RNg)"
+
