@@ -1,0 +1,24 @@
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
+
+
+<div class="page__footer-follow">
+{% if author.location %}
+<span>
+<li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+<i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+</li>
+</span>
+{% endif %}
+<ul class="social-icons">
+{% if site.footer.links %}
+{% for link in site.footer.links %}
+{% if link.label and link.url %}
+<span style="font-size:larger">
+<li><a title="{{ link.label }}" href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> </a></li>
+</span>
+{% endif %}
+{% endfor %}
+{% endif %}
+</ul>
+</div>
