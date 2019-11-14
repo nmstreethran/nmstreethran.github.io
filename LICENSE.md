@@ -20,7 +20,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 Unless otherwise stated, this website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com).
-Contents are licensed under the [Creative Commons Attribution 4.0 International License](license/LICENSE_content.md).
+Contents are licensed under a [Creative Commons Attribution 4.0 International License](license/LICENSE_content.md).
 
 Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/) 
 creators Garrett Knoll, Arthur Shlain, and tracy tam.
@@ -84,10 +84,10 @@ This website incorporates [Google Fonts](https://fonts.google.com/).
 The [Homemade Apple](https://fonts.google.com/specimen/Homemade+Apple) font, designed by Font Diner, is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 Badges are generated using [Shields.io](https://shields.io).
-Shields.io is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+Shields.io is licensed under a [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Icons used within badges are from [Simple Icons](https://simpleicons.org/).
-Simple Icons is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+Simple Icons is licensed under a [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 The color scheme is inspired by the [SynthWave '84 VS Code theme](https://github.com/robb0wen/synthwave-vscode).
 Copyright (c) 2019 Robb Owen.

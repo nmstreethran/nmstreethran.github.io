@@ -92,12 +92,14 @@ tags:
   * [pandoc-crossref](https://lierdakil.github.io/pandoc-crossref/)
 * [7-Zip](https://www.7-zip.org/) - file archiver
 * [Mozilla Thunderbird](https://www.thunderbird.net/) - email client
-* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - web browser
+* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [Jitsi Meet](https://jitsi.org/jitsi-meet/)
 * [KeePassXC](https://keepassxc.org/)
 * [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
 * [Auto Close YouTube Ads](https://greasyfork.org/en/scripts/9165-auto-close-youtube-ads)
 * [EZBlocker – Spotify Ad Muter](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/)
+* [Ghostscript](https://www.ghostscript.com/)
+* [Poppler](https://poppler.freedesktop.org/)
 
 # Version control system
 

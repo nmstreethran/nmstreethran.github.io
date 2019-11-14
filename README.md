@@ -109,7 +109,7 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 ## Website-specific license and credits
 
 Unless otherwise stated, the website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com).
-Contents are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE_content.md).
+Contents are licensed under a [Creative Commons Attribution 4.0 International License](LICENSE_content.md).
 
 Some contents are adapted from [AcademicPages](https://github.com/academicpages/academicpages.github.io).
 
@@ -127,10 +127,10 @@ The [Homemade Apple](https://fonts.google.com/specimen/Homemade+Apple) font, des
 The website's favicons are generated using [RealFaviconGenerator](https://realfavicongenerator.net/).
 
 Badges are generated using [Shields.io](https://shields.io).
-Shields.io is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+Shields.io is licensed under a [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Icons used within badges are from [Simple Icons](https://simpleicons.org/).
-Simple Icons is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+Simple Icons is licensed under a [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 The Creative Commons license in markdown format is imported from [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown).
 
