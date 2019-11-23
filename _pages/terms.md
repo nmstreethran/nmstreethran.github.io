@@ -1,23 +1,27 @@
-# [nmstreethran.github.io](https://nmstreethran.github.io/) <!-- omit in toc -->
+---
+permalink: /terms/
+title: "Terms & Privacy"
+date: "2019-11-23"
+toc: true
+toc_sticky: true
+comments: true
+share: true
+---
 
-[![Source Code License: MIT](https://img.shields.io/badge/Source%20Code%20License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Content License: CC BY 4.0](https://img.shields.io/badge/Content%20License-CC%20BY%204.0-blue.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
-My personal website!
+# Summary
 
-Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes).
+This site has been deployed using [GitHub Pages](https://pages.github.com/). The source code is hosted in a [GitHub repository](https://github.com/nmstreethran/nmstreethran.github.io/), which was forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes). The Minimal Mistakes theme and any modifications to the source code are licensed under the [MIT License](https://opensource.org/licenses/MIT). Unless otherwise stated, this site's contents are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-## Table of contents <!-- omit in toc -->
-- [Credits](#credits)
-  - [Creator](#creator)
-  - [Icons + Demo Images](#icons--demo-images)
-  - [Other](#other)
-- [License](#license)
-- [Website-specific license and credits](#website-specific-license-and-credits)
+This site's comments are powered by [utterances](https://utteranc.es/). Commenters are required to use their GitHub account to grant permission to utterances to post on their behalf using the [GitHub OAuth flow](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/). All comments are posted publicly to this [site's GitHub issues](https://github.com/nmstreethran/nmstreethran.github.io/issues). No other permissions are required by utterances. utterances is licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
 
-## Credits
+This site does not use any trackers, advertising, monetisation or analytics tools.
 
-### Creator
+The full list of credits can be found below.
+
+# Credits
+
+## Creator
 
 **Michael Rose**
 
@@ -25,13 +29,13 @@ Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mi
 - <https://twitter.com/mmistakes>
 - <https://github.com/mmistakes>
 
-### Icons + Demo Images
+## Icons + Demo Images
 
 - [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
 - [Font Awesome](http://fontawesome.io/)
 - [Unsplash](https://unsplash.com/)
 
-### Other
+## Other
 
 - [Jekyll](http://jekyllrb.com/)
 - [jQuery](http://jquery.com/)
@@ -44,9 +48,9 @@ Forked from [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mi
 - [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/)
 - [Lunr](http://lunrjs.com)
 
-## License
+# License
 
-[The MIT License (MIT)](license/LICENSE_code.md)
+[The MIT License (MIT)](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-2019 Michael Rose and contributors
 
@@ -106,10 +110,10 @@ Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-## Website-specific license and credits
+# Website-specific license and credits
 
 Unless otherwise stated, the website's contents are (c) 2019 Nithiya Streethran (nmstreethran at gmail dot com).
-Contents are licensed under a [Creative Commons Attribution 4.0 International License](license/LICENSE_content.md).
+Contents are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 Some contents are adapted from [AcademicPages](https://github.com/academicpages/academicpages.github.io).
 
@@ -141,3 +145,4 @@ SynthWave '84 is licensed under the [MIT Licence](http://opensource.org/licenses
 Comments are powered by [utterances](https://utteranc.es/).
 Copyright (c) 2018 Jeremy Danyow.
 utterances is licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
+

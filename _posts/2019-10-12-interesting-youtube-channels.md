@@ -6,7 +6,7 @@ tags:
 - random
 toc: true
 toc_sticky: true
-excerpt: "My source of entertainment"
+date: "2019-11-23"
 ---
 
 # Comedy
@@ -22,8 +22,8 @@ excerpt: "My source of entertainment"
 
 - [Bacon_](https://www.youtube.com/channel/UCcybVOrBgpzUxm-mlBT0WTA/about)
 - [Gopher](https://www.youtube.com/user/GophersVids/about)
-- [helswake](https://www.youtube.com/user/helswake/about)
 - [LiliaTV](https://www.youtube.com/channel/UC5970RJMoEcRNZl0MNp8tlQ/about)
+- [Viva La Dirt League](https://www.youtube.com/user/VivaLaDirtLeague/about)
 - [Zero Period Productions](https://www.youtube.com/user/0periodproductions/about)
 
 # History
@@ -39,7 +39,14 @@ excerpt: "My source of entertainment"
 
 - [Adam Ragusea](https://www.youtube.com/user/aragusea/about)
 - [Food Wishes](https://www.youtube.com/user/foodwishes/about)
+- [Glen & Friends Cooking](https://www.youtube.com/user/legourmettv/about)
 - [J. Kenji López-Alt](https://www.youtube.com/user/kenjialt/about)
+
+# Other
+
+- [Lex & Cinnabon](https://www.youtube.com/user/30129ss/about)
+- [Special Books by Special Kids](https://www.youtube.com/channel/UC4E98HDsPXrf5kTKIgrSmtQ/about)
+- [Thurston Waffles](https://www.youtube.com/channel/UCHWJ1mFJRgtZGBwfZAOq37w/about)
 
 # Science, nature and sustainability
 
