@@ -19,7 +19,7 @@ This site does not use any trackers, advertising, monetisation or analytics tool
 
 The full list of credits can be found below.
 
-# Credits
+# Credits - Minimal Mistakes
 
 ## Creator
 
