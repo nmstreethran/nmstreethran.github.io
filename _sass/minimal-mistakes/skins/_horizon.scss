@@ -1,0 +1,58 @@
+/* ==========================================================================
+   Modified neon skin
+   colour scheme based on https://github.com/robb0wen/synthwave-vscode
+   ========================================================================== */
+
+/* Colors */
+$background-color: #1C1E26 !default;
+$text-color: #fff6fb !default;
+$primary-color: #E95378 !default; 
+$border-color: mix(#fff, $background-color, 20%) !default;
+$code-background-color: mix(#000, $background-color, 15%) !default;
+$code-background-color-dark: mix(#000, $background-color, 20%) !default;
+$form-background-color: mix(#000, $background-color, 15%) !default;
+$footer-background-color: mix(#000, $background-color, 50%) !default;
+$link-color: #E95378 !default;
+$link-color-hover: #6C6F93 !default;
+$link-color-visited: #F43E5C !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $link-color-hover !default;
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+
+/* synthwave syntax highlighting (base16) */
+$base00: $code-background-color-dark; /* background */
+$base01: #282a2e;
+$base02: #373b41;
+$base03: #969896;
+$base04: #969896; /* comments, line numbers */
+$base05: #c5c8c6; /* normal */
+$base06: #e0e0e0;
+$base07: #ffffff;
+$base08: #E95678; /* variables */
+$base09: #E95678; /* variables */
+$base0a: #F09483; /* names */
+$base0b: #29D398; /* strings */
+$base0c: #B877DB; /* keywords */
+$base0d: #25B0BC; /* functions */
+$base0e: #B877DB; /* operators; same as 0c */
+$base0f: #a3685a;
+
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+/* next/previous buttons */
+.pagination--pager {
+  color: $text-color;
+  background-color: $primary-color;
+  border-color: transparent;
+
+  &:visited {
+    color: $text-color;
+  }
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}

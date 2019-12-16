@@ -134,9 +134,9 @@ Simple Icons is licensed under a [Creative Commons Zero v1.0 Universal License](
 
 The Creative Commons license in markdown format is imported from [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown).
 
-The color scheme is inspired by the [SynthWave '84 VS Code theme](https://github.com/robb0wen/synthwave-vscode).
-Copyright (c) 2019 Robb Owen.
-SynthWave '84 is licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
+The color scheme is inspired by the [Beyond the Horizon VS Code theme](https://github.com/ShaneYu/beyond-the-horizon-theme-vscode).
+Copyright (c) 2019 Shane Yu.
+Beyond the Horizon is licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
 
 Comments are powered by [utterances](https://utteranc.es/).
 Copyright (c) 2018 Jeremy Danyow.

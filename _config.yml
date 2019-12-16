@@ -12,7 +12,7 @@
 
 # theme                    : "minimal-mistakes-jekyll"
 # remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "synthwave" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "horizon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
@@ -271,8 +271,8 @@ defaults:
       author_profile: true
       layout: single
       header:
-        overlay_image: /assets/headers/trees.jpg
-        caption: "*Photo by [**Samuel Ferrara**](https://unsplash.com/@samferrara) on [**Unsplash**](https://unsplash.com/photos/iecJiKe_RNg)*"
+        overlay_image: /assets/headers/windfarm.jpg
+        caption: "*Photo by [**RawFilm**](https://unsplash.com/@rawfilm) on [**Unsplash**](https://unsplash.com/photos/ihMzQV3lleo)*"
   # _posts
   - scope:
       path: ""
