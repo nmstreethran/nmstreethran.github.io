@@ -11,7 +11,7 @@ categories:
 - open source
 ---
 
-[![DOI](https://img.shields.io/badge/zenodo-10.5281/zenodo.2875804-blue?style=for-the-badge&labelColor=1F4056)](https://doi.org/10.5281/zenodo.2875804)
+[![DOI](https://img.shields.io/badge/zenodo-10.5281/zenodo.2875795-blue?style=for-the-badge&labelColor=1F4056)](https://doi.org/10.5281/zenodo.2875795)
 [![GitHub](https://img.shields.io/badge/-nmstreethran/WindTurbineClassification-42B029?style=for-the-badge&logo=github&labelColor=black)](https://github.com/nmstreethran/WindTurbineClassification)
 
 Files from my master's thesis, completed between May and August 2017 at Heriot-Watt University. I have now released these files under open-source licenses, so that anyone interested can make use of them. Please refer to the contributing guidelines and code of conduct provided if you would like to contribute, or contact me if you have any questions.
