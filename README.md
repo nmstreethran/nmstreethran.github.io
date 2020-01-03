@@ -124,6 +124,13 @@ Academicons is licensed under the [SIL OFL 1.1 license](http://scripts.sil.org/O
 This website incorporates [Google Fonts](https://fonts.google.com/).
 The [Homemade Apple](https://fonts.google.com/specimen/Homemade+Apple) font, designed by Font Diner, is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
+This website incorporates the [Tengwar Annatar](https://www.dafont.com/tengwar-annatar.font) font.
+Copyright (c) 2004 Johan Winge.
+It is distributed as freeware, meaning that anyone may download it, free of charge, and use it in any non-commercial publication or product.
+This font may be redistributed provided that all files, without exceptions, in the original distribution are included in unmodified form, and that no fee is charged.
+
+Tengwar text is transcribed using [Tecendil](https://www.tecendil.com/) by arno at arno dot org.
+
 The website's favicons are generated using [RealFaviconGenerator](https://realfavicongenerator.net/).
 
 Badges are generated using [Shields.io](https://shields.io).
