@@ -108,7 +108,7 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 
 ## Website-specific license and credits
 
-Unless otherwise stated, the website's contents are (c) 2019 Nithiya Streethran (nmstreethran at gmail dot com).
+Unless otherwise stated, the website's contents are (c) 2019-2020 Nithiya Streethran (nmstreethran at gmail dot com).
 Contents are licensed under a [Creative Commons Attribution 4.0 International License](license/LICENSE_content.md).
 
 Some contents are adapted from [AcademicPages](https://github.com/academicpages/academicpages.github.io).

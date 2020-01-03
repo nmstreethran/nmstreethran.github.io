@@ -19,7 +19,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Unless otherwise stated, this website's contents are (c) 2019 [Nithiya Streethran](mailto:nmstreethran@gmail.com).
+Unless otherwise stated, the website's contents are (c) 2019-2020 Nithiya Streethran (nmstreethran at gmail dot com).
 Contents are licensed under a [Creative Commons Attribution 4.0 International License](license/LICENSE_content.md).
 
 Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/) 
@@ -72,6 +72,8 @@ Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
+Some contents are adapted from [AcademicPages](https://github.com/academicpages/academicpages.github.io).
+
 The site logo is generated using [Jdenticon](https://jdenticon.com).
 Copyright (c) 2018 Daniel Mester Pirttijärvi.
 Jdenticon is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
@@ -83,15 +85,26 @@ Academicons is licensed under the [SIL OFL 1.1 license](http://scripts.sil.org/O
 This website incorporates [Google Fonts](https://fonts.google.com/).
 The [Homemade Apple](https://fonts.google.com/specimen/Homemade+Apple) font, designed by Font Diner, is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
+This website incorporates the [Tengwar Annatar](https://www.dafont.com/tengwar-annatar.font) font.
+Copyright (c) 2004 Johan Winge.
+It is distributed as freeware, meaning that anyone may download it, free of charge, and use it in any non-commercial publication or product.
+This font may be redistributed provided that all files, without exceptions, in the original distribution are included in unmodified form, and that no fee is charged.
+
+Tengwar text is transcribed using [Tecendil](https://www.tecendil.com/) by arno at arno dot org.
+
+The website's favicons are generated using [RealFaviconGenerator](https://realfavicongenerator.net/).
+
 Badges are generated using [Shields.io](https://shields.io).
 Shields.io is licensed under a [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Icons used within badges are from [Simple Icons](https://simpleicons.org/).
 Simple Icons is licensed under a [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
-The color scheme is inspired by the [SynthWave '84 VS Code theme](https://github.com/robb0wen/synthwave-vscode).
-Copyright (c) 2019 Robb Owen.
-SynthWave '84 is licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
+The Creative Commons license in markdown format is imported from [idleberg/Creative-Commons-Markdown](https://github.com/idleberg/Creative-Commons-Markdown).
+
+The color scheme is inspired by the [Beyond the Horizon VS Code theme](https://github.com/ShaneYu/beyond-the-horizon-theme-vscode).
+Copyright (c) 2019 Shane Yu.
+Beyond the Horizon is licensed under the [MIT Licence](http://opensource.org/licenses/MIT).
 
 Comments are powered by [utterances](https://utteranc.es/).
 Copyright (c) 2018 Jeremy Danyow.

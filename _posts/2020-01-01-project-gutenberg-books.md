@@ -1,5 +1,5 @@
 ---
-title: "Project Gutenberg Public Domain Books"
+title: "Project Gutenberg public domain books"
 excerpt: ""
 tags:
 - books
