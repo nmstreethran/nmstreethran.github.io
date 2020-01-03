@@ -45,7 +45,7 @@ Copyright (c) 2013 Dave Rubert and Chris Coyier.
 FitVids is distributed under the terms of the [WTFPL License](http://sam.zoy.org/wtfpl/).
 
 Minimal Mistakes incorporates [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/),
-Copyright (c) 2014-2016 Dmitry Semenov, http://dimsemenov.com.
+Copyright (c) 2014-2016 [Dmitry Semenov](http://dimsemenov.com).
 Magnific Popup is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 Minimal Mistakes incorporates [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll),
@@ -61,7 +61,7 @@ Copyright (c) 2015 Luke Jackson.
 GreedyNav.js is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 Minimal Mistakes incorporates [Jekyll Group-By-Array](https://github.com/mushishi78/jekyll-group-by-array),
-Copyright (c) 2015 Max White <mushishi78@gmail.com>.
+Copyright (c) 2015 Max White (mushishi78 at gmail dot com).
 Jekyll Group-By-Array is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 Minimal Mistakes incorporates [@allejo's Pure Liquid Jekyll Table of Contents](https://allejo.io/blog/a-jekyll-toc-in-liquid-only/),
