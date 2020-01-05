@@ -3,6 +3,7 @@ title: "Open source tools and resources"
 toc: true
 excerpt: "This is a non-exhaustive list of open source tools and resources I use. I will update this list from time to time."
 toc_sticky: true
+date: "2020-01-05"
 tags:
 - open source
 - resources
@@ -21,6 +22,7 @@ tags:
 
 # Games
 
+* [DaggerfallUnity](https://www.dfworkshop.net/)
 * [OpenMW](https://openmw.org/en/)
 
 # Guides and reading material
@@ -37,7 +39,8 @@ tags:
 
 * [Ubuntu](https://www.ubuntu.com/) - Linux distribution
 * GNOME extensions and themes
-  * [Flat Remix GNOME theme](https://drasite.com/flat-remix-gnome)
+  * [Sweet theme](https://www.gnome-look.org/p/1253385/)
+  * [Flat Remix icon theme](https://drasite.com/flat-remix)
   * [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
   * [AlternateTab](https://extensions.gnome.org/extension/15/alternatetab/)
   * [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)
@@ -45,6 +48,8 @@ tags:
   * [No Topleft Hot Corner](https://extensions.gnome.org/extension/118/no-topleft-hot-corner/)
   * [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
   * [windowNavigator](https://extensions.gnome.org/extension/10/windownavigator/)
+  * [No Screen Blank](https://extensions.gnome.org/extension/2413/no-screen-blank/)
+  * [Screenshot Locations](https://extensions.gnome.org/extension/1179/screenshot-locations/)
 
 # Programming and data analysis
 
@@ -61,6 +66,7 @@ tags:
 
 # Source code editor
 
+* [Visual Studio Code](https://code.visualstudio.com/)
 * [VSCodium](https://vscodium.github.io/) - fully open-source source code editor based on Microsoft's [Visual Studio Code](https://code.visualstudio.com/) without Microsoft telemetry, branding and licensing
 * Visual Studio Code extensions
   * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
@@ -71,7 +77,7 @@ tags:
   * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-  * [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+  * [Beyond the Horizon](https://marketplace.visualstudio.com/items?itemName=shaneyu.beyond-the-horizon-theme-vscode)
   * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 # Typesetting and office
@@ -93,6 +99,8 @@ tags:
 * [7-Zip](https://www.7-zip.org/) - file archiver
 * [Mozilla Thunderbird](https://www.thunderbird.net/) - email client
 * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+  * [GNOME Shell integration for Chrome](https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome)
+  * [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 * [Jitsi Meet](https://jitsi.org/jitsi-meet/)
 * [KeePassXC](https://keepassxc.org/)
 * [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
