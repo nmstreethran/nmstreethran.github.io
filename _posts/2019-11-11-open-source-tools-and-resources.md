@@ -3,7 +3,7 @@ title: "Open source tools and resources"
 toc: true
 excerpt: "This is a non-exhaustive list of open source tools and resources I use. I will update this list from time to time."
 toc_sticky: true
-date: "2020-01-05"
+date: "2020-01-15"
 tags:
 - open source
 - resources
@@ -80,14 +80,14 @@ tags:
   * [Beyond the Horizon](https://marketplace.visualstudio.com/items?itemName=shaneyu.beyond-the-horizon-theme-vscode)
   * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
-# Typesetting and office
+# Typesetting and office applications
 
 * [LaTeX](https://www.latex-project.org/)
-* [TeX Live](https://tug.org/texlive/) - LaTeX package manager
-* [Markdown](https://daringfireball.net/projects/markdown/syntax) - markup language
+* [TeX Live](https://tug.org/texlive/)
+* [Markdown](https://daringfireball.net/projects/markdown/syntax)
 * [Google Fonts](https://fonts.google.com/)
-* [TEXcount](https://ctan.org/pkg/texcount) - LaTeX document word count
-* [Libre Office](https://www.libreoffice.org/) - office suite of applications
+* [TEXcount](https://ctan.org/pkg/texcount)
+* [Libre Office](https://www.libreoffice.org/)
 * [ModernCV](https://github.com/xdanaux/moderncv)
 
 # Utilities
@@ -101,6 +101,7 @@ tags:
 * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
   * [GNOME Shell integration for Chrome](https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome)
   * [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+  * [SpotiShush](https://addons.mozilla.org/en-US/firefox/addon/spotishush/)
 * [Jitsi Meet](https://jitsi.org/jitsi-meet/)
 * [KeePassXC](https://keepassxc.org/)
 * [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
@@ -117,13 +118,13 @@ tags:
 
 # Visualisation, colours and graphics
 
-* [Matplotlib](https://matplotlib.org/) - Python plotting library
-* [Ti*k*z & PGF](https://ctan.org/pkg/pgf) - LaTeX graphics package
-* [Google Charts](https://developers.google.com/chart/) - interactive visualisation tool
-* [GIMP](https://www.gimp.org/) - raster graphics editor
-* [Inkscape](https://inkscape.org/) - vector graphics editor
+* [Matplotlib](https://matplotlib.org/)
+* [Ti*k*z & PGF](https://ctan.org/pkg/pgf)
+* [Google Charts](https://developers.google.com/chart/)
+* [GIMP](https://www.gimp.org/)
+* [Inkscape](https://inkscape.org/)
 * [Simple Icons](https://simpleicons.org/)
-* [Academicons](https://jpswalsh.github.io/academicons/) - academic font icons
+* [Academicons](https://jpswalsh.github.io/academicons/)
 * [Shields.io](https://shields.io/)
 * [Font Awesome](https://fontawesome.com/)
 * [jdenticon](https://jdenticon.com/)

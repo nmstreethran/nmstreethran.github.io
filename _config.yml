@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "Nithiya Streethran"
   avatar           : "/assets/icons/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Early-stage researcher. Interested in open source software and data for sustainable energy systems. Likes houseplants, cats and fantasy 🧝."
+  bio              : "Early-stage researcher. Interested in open source software and data science methods for environmental sustainability. Likes houseplants, cats and fantasy 🧝."
   location         : "Norway"
   email            :
   links:
