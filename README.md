@@ -1,4 +1,6 @@
-# [nmstreethran.github.io](https://nmstreethran.github.io/) <!-- omit in toc -->
+# nmstreethran.github.io <!-- omit in toc -->
+
+**I have moved this site to GitLab Pages (https://nithiya.gitlab.io).**
 
 [![Source Code License: MIT](https://img.shields.io/badge/Source%20Code%20License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Content License: CC BY 4.0](https://img.shields.io/badge/Content%20License-CC%20BY%204.0-blue.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
