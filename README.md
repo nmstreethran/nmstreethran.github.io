@@ -1,6 +1,6 @@
 # nmstreethran.github.io <!-- omit in toc -->
 
-**I have moved this site to GitLab Pages (https://nithiya.gitlab.io).**
+**I have moved this site to GitLab Pages (https://gitlab.com/nithiya/nithiya.gitlab.io).**
 
 [nmstreethran.github.io](https://nmstreethran.github.io) will now redirect to [nithiya.gitlab.io](https://nithiya.gitlab.io).
 
