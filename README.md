@@ -1,4 +1,4 @@
-# nmstreethran.github.io <!-- omit in toc -->
+# nmstreethran.github.io
 
 **I have moved this site to GitLab Pages (https://gitlab.com/nithiya/nithiya.gitlab.io).**
 
